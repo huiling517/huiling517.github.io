@@ -7,79 +7,81 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            margin: 10px;
             background-color: #f4f4f4;
-            font-size: 20px;
+            font-size: 18px;
         }
         .container {
-            max-width: 900px;
+            max-width: 600px;
             margin: auto;
             background-color: #fff;
-            padding: 25px;
+            padding: 15px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         h1 {
             text-align: center;
             color: #333;
-            font-size: 36px;
+            font-size: 28px;
             font-weight: bold;
-            margin-bottom: 25px;
+            margin-bottom: 15px;
         }
         .search-container {
             display: flex;
-            margin-bottom: 15px;
+            flex-direction: row;
+            margin-bottom: 10px;
         }
         #searchInput {
             flex-grow: 1;
-            padding: 18px;
-            font-size: 22px;
+            padding: 12px;
+            font-size: 16px;
             border: 1px solid #ddd;
             border-radius: 4px;
             box-sizing: border-box;
         }
         #searchButton {
-            padding: 18px 25px;
-            font-size: 22px;
+            padding: 10px 15px;
+            font-size: 16px;
             background-color: #007bff;
             color: white;
             border: none;
             border-radius: 4px;
             cursor: pointer;
+            margin-left: 5px;
         }
         #searchButton:hover {
             background-color: #0056b3;
         }
         .input-note {
-            font-size: 20px;
+            font-size: 14px;
             color: #666;
-            margin-bottom: 20px;
-            margin-left: 10px;
+            margin-bottom: 10px;
+            margin-left: 5px;
         }
         .system-remark {
-            font-size: 18px;
+            font-size: 14px;
             color: #888;
             text-align: center;
-            margin-top: 25px;
+            margin-top: 15px;
             margin-bottom: -10px;
             padding: 5px;
         }
         #resultsTable {
             width: 100%;
             border-collapse: collapse;
-            margin-top: 25px;
+            margin-top: 15px;
         }
         #resultsTable th, #resultsTable td {
             border: 1px solid #ddd;
-            padding: 12px;
+            padding: 8px;
             text-align: left;
             word-break: break-word;
-            font-size: 20px;
+            font-size: 14px;
         }
         #resultsTable th {
             background-color: #f2f2f2;
             color: #333;
-            font-size: 22px;
+            font-size: 16px;
             font-weight: bold;
         }
         #resultsTable tr:nth-child(even) {
@@ -92,8 +94,8 @@
             text-align: center;
             color: #777;
             margin-top: 20px;
-            font-size: 22px;
-            padding: 15px;
+            font-size: 16px;
+            padding: 10px;
         }
         .error {
             color: red;
@@ -101,6 +103,28 @@
         }
         .no-results {
             color: #555;
+        }
+
+        /* 手機版樣式調整 */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 22px;
+            }
+            #searchInput {
+                padding: 10px;
+                font-size: 14px;
+            }
+            #searchButton {
+                padding: 8px 12px;
+                font-size: 14px;
+            }
+            .input-note, .system-remark {
+                font-size: 12px;
+            }
+            #resultsTable th, #resultsTable td {
+                font-size: 12px;
+                padding: 6px;
+            }
         }
     </style>
 </head>
