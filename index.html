@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>醫院員工電話查詢</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            font-size: 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background-color: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 25px;
+        }
+        .search-container {
+            display: flex;
+            margin-bottom: 15px;
+        }
+        #searchInput {
+            flex-grow: 1;
+            padding: 18px;
+            font-size: 22px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        #searchButton {
+            padding: 18px 25px;
+            font-size: 22px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        #searchButton:hover {
+            background-color: #0056b3;
+        }
+        .input-note {
+            font-size: 20px;
+            color: #666;
+            margin-bottom: 20px;
+            margin-left: 10px;
+        }
+        /* 新增備註樣式 */
+        .system-remark {
+            font-size: 18px; /* 可以比主要內容小一點 */
+            color: #888;    /* 灰色，不那麼顯眼 */
+            text-align: center; /* 居中顯示 */
+            margin-top: 25px;   /* 與上方元素的間距 */
+            margin-bottom: -10px; /* 調整與下方結果區域的間距，如果需要 */
+            padding: 5px;
+            /* border-top: 1px dashed #ccc; */ /* 可選：加一個分隔線 */
+            /* border-bottom: 1px dashed #ccc; */ /* 可選：加一個分隔線 */
+        }
+
+        #resultsTable {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 25px;
+        }
+        #resultsTable th, #resultsTable td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+            word-break: break-word;
+            font-size: 20px;
+        }
+        #resultsTable th {
+            background-color: #f2f2f2;
+            color: #333;
+            font-size: 22px;
+            font-weight: bold;
+        }
+        #resultsTable tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        #resultsTable tr:hover {
+            background-color: #e9e9e9;
+        }
+
+        .loading, .error, .no-results {
+            text-align: center;
+            color: #777;
+            margin-top: 20px;
+            font-size: 22px;
+            padding: 15px;
+        }
+        .error {
+            color: red;
+            font-weight: bold;
+        }
+        .no-results {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>醫院電話查詢</h1>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="輸入關鍵字 (姓名、單位或地點)" />
+            <button id="searchButton">查詢</button>
+        </div>
+        <p class="input-note">若需查詢多筆，請用「逗號 (,)」分隔姓名或關鍵字</p>
+
+        <!-- 新增的備註位置 -->
+        <p class="system-remark">此查詢系統供方便使用，不作即時更新連動</p>
+        
+        <div id="resultsContainer">
+            <!-- 初始時可以放一個提示，例如 -->
+            <!-- <p class="no-results">請輸入關鍵字開始查詢。</p> -->
+        </div>
+    </div>
+
+    <script>
+        const searchInput = document.getElementById('searchInput');
+        const searchButton = document.getElementById('searchButton');
+        const resultsContainerDiv = document.getElementById('resultsContainer');
+
+        async function performSearch() {
+            const query = searchInput.value.trim();
+            resultsContainerDiv.innerHTML = '<p class="loading">查詢中...</p>'; // 載入中提示
+
+            if (!query) {
+                resultsContainerDiv.innerHTML = '<p class="no-results">請輸入查詢關鍵字。</p>';
+                return;
+            }
+
+            try {
+                const response = await fetch(`/search?q=${encodeURIComponent(query)}`);
+                
+                if (!response.ok) {
+                    let errorDetail = "";
+                    try {
+                        const errorData = await response.json();
+                        if (errorData && errorData.error) {
+                            errorDetail = errorData.error;
+                        } else {
+                            errorDetail = await response.text();
+                        }
+                    } catch (e) {
+                        errorDetail = response.statusText;
+                    }
+                    throw new Error(`伺服器錯誤: ${response.status}. ${errorDetail}`);
+                }
+                
+                const data = await response.json();
+                resultsContainerDiv.innerHTML = ''; 
+
+                if (data && data.length > 0 && !data[0].error) {
+                    const table = document.createElement('table');
+                    table.id = 'resultsTable';
+                    
+                    const thead = table.createTHead();
+                    const headerRow = thead.insertRow();
+                    const headers = ['姓名', '單位', '手機簡碼', '分機'];
+                    headers.forEach(headerText => {
+                        const th = document.createElement('th');
+                        th.textContent = headerText;
+                        headerRow.appendChild(th);
+                    });
+
+                    const tbody = table.createTBody();
+                    let hasActualResults = false;
+                    data.forEach(person => {
+                        const row = tbody.insertRow();
+                        row.insertCell().textContent = person.name || '';
+                        row.insertCell().textContent = person.department || '';
+                        row.insertCell().textContent = person.mobile_short_code || '';
+                        row.insertCell().textContent = person.extension || '';
+                        hasActualResults = true;
+                    });
+                    
+                    if (hasActualResults) {
+                        resultsContainerDiv.appendChild(table);
+                    } else {
+                        resultsContainerDiv.innerHTML = '<p class="no-results">查無相關資料。</p>';
+                    }
+
+                } else if (data && data[0] && data[0].error) {
+                     resultsContainerDiv.innerHTML = `<p class="error">${data[0].error}</p>`;
+                }
+                else {
+                    resultsContainerDiv.innerHTML = '<p class="no-results">查無相關資料。</p>';
+                }
+            } catch (error) {
+                console.error('查詢時發生錯誤:', error);
+                resultsContainerDiv.innerHTML = `<p class="error">查詢失敗: ${error.message}</p>`;
+            }
+        }
+
+        searchButton.addEventListener('click', performSearch);
+        searchInput.addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') {
+                event.preventDefault();
+                performSearch();
+            }
+        });
+    </script>
+</body>
+</html>
