@@ -1,0 +1,8036 @@
+[
+    {
+        "department": "風濕免疫科(401診)",
+        "extension": "1431",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "腎臟科一診(402診)",
+        "extension": "1432",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "腎臟科二診(403診)",
+        "extension": "1433",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "新陳代謝科(405診)",
+        "extension": "1435",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "四樓血壓站",
+        "extension": "1444",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科主任",
+        "extension": "1414",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科副主任",
+        "extension": "1417",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科組長",
+        "extension": "1422",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科庫房",
+        "extension": "1424",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科污物室",
+        "extension": "1427",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科生化室",
+        "extension": "1401~02",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科微生物室",
+        "extension": "1404~06",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科血庫",
+        "extension": "1407~08",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科血液室",
+        "extension": "1409~10",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科血清室",
+        "extension": "1411~12",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科螢光室",
+        "extension": "1413",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科鏡檢室",
+        "extension": "1418~19",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科第一抽血站",
+        "extension": "1420~21",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科第二抽血站",
+        "extension": "1403",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科分生室",
+        "extension": "1423",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科會議室",
+        "extension": "1415~16",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "胸腔內科一診517",
+        "extension": "1514",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "胸腔內科二診516",
+        "extension": "1524",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "胸腔衛教室",
+        "extension": "1556",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心臟科醫師研究室",
+        "extension": "1519",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心電圖室",
+        "extension": "1501",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "肺功能室",
+        "extension": "1503",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "運動心電圖室",
+        "extension": "1504",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "肌電圖室",
+        "extension": "1505",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "腦波室",
+        "extension": "1506",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內視鏡室",
+        "extension": "1507~08",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "支氣管鏡室",
+        "extension": "1509",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "超音波室",
+        "extension": "1512、1522",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "眼科門診",
+        "extension": "1516~17",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "第一心超室",
+        "extension": "1523",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "第二心超室",
+        "extension": "1518",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心臟衛教室",
+        "extension": "1520",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢查等候室(胃鏡)",
+        "extension": "1521",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢查室休息室",
+        "extension": "1531",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心臟外科519",
+        "extension": "1541",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心臟內科518",
+        "extension": "1542",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "家醫科一診514",
+        "extension": "1515",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "家醫科二診515",
+        "extension": "1513",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "五樓血壓站",
+        "extension": "1543",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "院長室發展組",
+        "extension": "1603",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "院長室發展組",
+        "extension": "1615",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "第一洗腎中心",
+        "extension": "1621~23",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "一洗護理長辦公室",
+        "extension": "1624",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "一洗討論室",
+        "extension": "1625",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "院長室",
+        "extension": "1650~56",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "董事會高專張隆鐘",
+        "extension": "1654",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "董事會秘書蔡珮容",
+        "extension": "1651",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "院長室會議室",
+        "extension": "1611",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "風濕免疫科(401診)",
+        "extension": "1431",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "腎臟科一診(402診)",
+        "extension": "1432",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "腎臟科二診(403診)",
+        "extension": "1433",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "新陳代謝科(405診)",
+        "extension": "1435",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "四樓血壓站",
+        "extension": "1444",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科主任",
+        "extension": "1414",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科副主任",
+        "extension": "1417",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科組長",
+        "extension": "1422",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科庫房",
+        "extension": "1424",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科污物室",
+        "extension": "1427",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科生化室",
+        "extension": "1401~02",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科微生物室",
+        "extension": "1404~06",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科血庫",
+        "extension": "1407~08",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科血液室",
+        "extension": "1409~10",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科血清室",
+        "extension": "1411~12",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科螢光室",
+        "extension": "1413",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科鏡檢室",
+        "extension": "1418~19",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科第一抽血站",
+        "extension": "1420~21",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科第二抽血站",
+        "extension": "1403",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科分生室",
+        "extension": "1423",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢驗科會議室",
+        "extension": "1415~16",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "胸腔內科一診517",
+        "extension": "1514",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "胸腔內科二診516",
+        "extension": "1524",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "胸腔衛教室",
+        "extension": "1556",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心臟科醫師研究室",
+        "extension": "1519",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心電圖室",
+        "extension": "1501",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "肺功能室",
+        "extension": "1503",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "運動心電圖室",
+        "extension": "1504",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "肌電圖室",
+        "extension": "1505",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "腦波室",
+        "extension": "1506",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內視鏡室",
+        "extension": "1507~08",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "支氣管鏡室",
+        "extension": "1509",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "超音波室",
+        "extension": "1512、1522",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "眼科門診",
+        "extension": "1516~17",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "第一心超室",
+        "extension": "1523",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "第二心超室",
+        "extension": "1518",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心臟衛教室",
+        "extension": "1520",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢查等候室(胃鏡)",
+        "extension": "1521",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "檢查室休息室",
+        "extension": "1531",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心臟外科519",
+        "extension": "1541",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心臟內科518",
+        "extension": "1542",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "家醫科一診514",
+        "extension": "1515",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "家醫科二診515",
+        "extension": "1513",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "五樓血壓站",
+        "extension": "1543",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "院長室發展組",
+        "extension": "1603",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "院長室發展組",
+        "extension": "1615",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "第一洗腎中心",
+        "extension": "1621~23",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "一洗護理長辦公室",
+        "extension": "1624",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "一洗討論室",
+        "extension": "1625",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "院長室",
+        "extension": "1650~56",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "董事會高專張隆鐘",
+        "extension": "1654",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "董事會秘書蔡珮容",
+        "extension": "1651",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "院長室會議室",
+        "extension": "1611",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理部",
+        "extension": "5980、再撥個人分機",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "資訊室主任辦公室",
+        "extension": "1730",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "中控室",
+        "extension": "3031",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "B1 UPS",
+        "extension": "3089",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "B2 UPS",
+        "extension": "3099",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "滕醫師辦公室",
+        "extension": "3110",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "施醫師辦公室",
+        "extension": "3111",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "報告室",
+        "extension": "3112",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "乳篩衛教",
+        "extension": "3113",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "CT室",
+        "extension": "3114",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "第一、二攝影室",
+        "extension": "3115",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "放射科櫃檯",
+        "extension": "3116",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "第三、五攝影室",
+        "extension": "3117",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "江組長辦公室",
+        "extension": "3118",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "會議室",
+        "extension": "3232",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "書記",
+        "extension": "3233",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "3234",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "外加醫師辦公室",
+        "extension": "3310",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "3313",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "3412",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "NICU值班室",
+        "extension": "3413",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "NICU討論室",
+        "extension": "3414",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "2~2洗腎中心",
+        "extension": "3420",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "PICU護理站",
+        "extension": "3421",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "5C討論室",
+        "extension": "3532",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "5C書記",
+        "extension": "3533",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "5C護理長辦公室",
+        "extension": "3534",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "NP值班室",
+        "extension": "3536",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "6C書記",
+        "extension": "3633",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "6C護理長辦公室",
+        "extension": "3634",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "醫務、內外科辦公室",
+        "extension": "1701~05",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "資訊室軟體組",
+        "extension": "1731#11~22",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "資訊室研發組",
+        "extension": "1731#24~30",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "出院服務",
+        "extension": "2035、2038~39",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "資材組",
+        "extension": "3010~13",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "2C護理站",
+        "extension": "3230~31",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "CVS護理站",
+        "extension": "3311~12、3314",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "SICU護理站",
+        "extension": "3317~18",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "書記",
+        "extension": "3320~21",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "NICU護理站",
+        "extension": "3410~11",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "5C護理站",
+        "extension": "3530~31",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "6C護理站",
+        "extension": "3630~32",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "NP辦公室",
+        "extension": "3635~36",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "環衛辦公室",
+        "extension": "3021",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "經顱磁刺激治療(rTMS)",
+        "extension": "3235",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "RT辦公室",
+        "extension": "3418",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "滅菌鍋爐室",
+        "extension": "4002",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "地下一樓停車場",
+        "extension": "4021",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "維康便利商店",
+        "extension": "4126",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "書記",
+        "extension": "4220",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "4223",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "會議/研討室",
+        "extension": "4224",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "家屬休息室",
+        "extension": "4301",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "MI討論室",
+        "extension": "4310",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "MI~A區值班室",
+        "extension": "4313",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "MI護理長辦公室",
+        "extension": "4315",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "MI~B區值班室",
+        "extension": "4320",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內科醫師值班室",
+        "extension": "4320",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "4B護理長辦公室",
+        "extension": "4422",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "4B討論室",
+        "extension": "4423",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "儲藏室",
+        "extension": "4424",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "4B書記",
+        "extension": "4425",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "452值班室A",
+        "extension": "4451",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "452值班室B",
+        "extension": "4452",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "禱告室",
+        "extension": "4500",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "4522",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "討論室",
+        "extension": "4523",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "儲藏室",
+        "extension": "4524",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "病房心超室",
+        "extension": "4525",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "集會堂(報到處)",
+        "extension": "4612",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "貴賓室",
+        "extension": "4612",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "集會堂音控室",
+        "extension": "4613",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "簡報室(大)",
+        "extension": "4617",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "工務室",
+        "extension": "2020~30",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "機房",
+        "extension": "4089、4099",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "醫勤辦公室",
+        "extension": "4101~03",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "2~1洗腎中心",
+        "extension": "4110~12",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "兒科護理站",
+        "extension": "4221~22",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "值班室",
+        "extension": "4226~28、5413",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "MI~A區護理站",
+        "extension": "4311~12、14",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "MI~B區護理站",
+        "extension": "4317~19",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "生殖醫學中心",
+        "extension": "4331~32",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "4B婦產科護理站",
+        "extension": "4420~21",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "坐月子中心咨詢",
+        "extension": "4420~21",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "骨科護理站",
+        "extension": "4520~21",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "控床中心",
+        "extension": "1103",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "住院中心",
+        "extension": "1116",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "藥劑科會議室",
+        "extension": "1117",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "轉診中心",
+        "extension": "1120",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "藥庫",
+        "extension": "2015",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "安寧共照",
+        "extension": "2033",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "2035",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心理測驗室",
+        "extension": "2111",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心理咨商師(成人)",
+        "extension": "2111",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "CDR心智評估室",
+        "extension": "2112",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "ICF身心障礙鑑定室",
+        "extension": "2113",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "多功能全方位復健室",
+        "extension": "2120",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "營養諮詢室",
+        "extension": "2133",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "統一超商(7~11)",
+        "extension": "2136",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "復健科診間215",
+        "extension": "2232",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "主治醫師辦公室",
+        "extension": "2235",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "會議室",
+        "extension": "2236",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "主任辦公室",
+        "extension": "2238",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "失智共同照護中心",
+        "extension": "2252",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "失智社區服務據點",
+        "extension": "2255",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "門診護理長辦公室",
+        "extension": "2311",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "整形外科及疼痛科322",
+        "extension": "2312",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "得力小站(骨鬆衛教)",
+        "extension": "2323",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "中醫櫃檯",
+        "extension": "2330",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "申訴專線",
+        "extension": "2333",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "臨床技能中心",
+        "extension": "2410",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "泌尿二診522",
+        "extension": "2520",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "膀胱鏡、超音波室",
+        "extension": "2522",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "尿路動力室",
+        "extension": "2523",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "泌尿一診521",
+        "extension": "2525",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "危機處理小組",
+        "extension": "5858",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "事務組",
+        "extension": "2006~09",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "感控室",
+        "extension": "2010~12",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "疾管衛教室",
+        "extension": "2031~32",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "2038~39",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "身心科辦公室",
+        "extension": "2113~14",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "癌症資源中心",
+        "extension": "2125~26",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "健康管理中心",
+        "extension": "2130~32",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "語言治療室",
+        "extension": "2230、2234",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "小兒物理、職能治療室",
+        "extension": "2231、2239",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "語言治療室",
+        "extension": "2233、2237",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "資訊室網路硬體組",
+        "extension": "2325、2327",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "資訊室網路硬體組",
+        "extension": "2328、2340",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "中醫門診908",
+        "extension": "2331~2332",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "門診辦公室",
+        "extension": "2337~38",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "社工室",
+        "extension": "2415~18",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "圖書館",
+        "extension": "2420~21",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "教研部",
+        "extension": "2425~27",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "碎石室",
+        "extension": "2521、2524",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "泌尿中心主任",
+        "extension": "2526",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "523診間",
+        "extension": "2530",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "山巡門診候診區",
+        "extension": "2531",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "高壓氧室",
+        "extension": "2532",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "減重治療室",
+        "extension": "2533",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "醫師值班室:內科SA",
+        "extension": "2540",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "醫師值班室:內科SB",
+        "extension": "2541",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "醫師值班室:外科總值",
+        "extension": "2542",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "醫師值班室:外科:女",
+        "extension": "2543",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "乳外中心治療室",
+        "extension": "2650",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "乳外中心601診",
+        "extension": "2651",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "乳外中心602診",
+        "extension": "2652",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "乳外中心乳超室",
+        "extension": "2653",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "職能復健室",
+        "extension": "2720",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "體外震波治療室",
+        "extension": "2721",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "中醫煎藥室",
+        "extension": "2722",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "電磁脈衝治療室",
+        "extension": "2723",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "藥劑科主任",
+        "extension": "5010",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診會議室",
+        "extension": "5018",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診護理長辦公室",
+        "extension": "5019",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "環保室",
+        "extension": "5020",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "X光周醫師辦公室",
+        "extension": "5115",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診X光室",
+        "extension": "5116",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診社工會議",
+        "extension": "5122",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "警衛室",
+        "extension": "5140",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "出院中心",
+        "extension": "5150",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診批價櫃檯",
+        "extension": "5151",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診醫業組長",
+        "extension": "5152",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "醫師辦公室",
+        "extension": "5214",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "1~3洗腎中心",
+        "extension": "5222",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "供應室",
+        "extension": "5227",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "手術恢復室",
+        "extension": "5315",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "病理科",
+        "extension": "2600~04",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "高層辦公室",
+        "extension": "2751~59",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "UD藥局",
+        "extension": "5011~13",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "腹膜透析室",
+        "extension": "5021~22",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "核醫科",
+        "extension": "5025~5026",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "磁振造影室",
+        "extension": "5027~5028",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診O1~O10床",
+        "extension": "5110、5112",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診室",
+        "extension": "5110~19",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診E1~E20床",
+        "extension": "5123、5124",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診O11~O20床",
+        "extension": "5125、5126",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "戶外門診",
+        "extension": "5145~47",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診藥局",
+        "extension": "5160~61",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "1~4洗腎中心",
+        "extension": "5211~12",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "1~2洗腎中心",
+        "extension": "5220~21",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "牙科門診",
+        "extension": "5233~34",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "麻醉科",
+        "extension": "5310、5316",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "手術室",
+        "extension": "5311~14、17",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "嬰兒室護理長",
+        "extension": "5412",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "DR護理長",
+        "extension": "5423",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "產房麻醉室",
+        "extension": "5428",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "SBR護理長",
+        "extension": "5432",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "書記",
+        "extension": "5533",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "5534",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "討論室",
+        "extension": "5535",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "環衛休息室",
+        "extension": "5536",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "慈惠照護中心",
+        "extension": "5537",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "6A~A區",
+        "extension": "5602",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "6A~B區",
+        "extension": "5629",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "書記",
+        "extension": "5633",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "韓偉會議室",
+        "extension": "5637",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心導管室",
+        "extension": "5330~31",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "嬰兒室",
+        "extension": "5410~11",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "婦產科辦公室",
+        "extension": "5419、5427",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "待產室（DR）",
+        "extension": "5420~22",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "產房醫師值班室",
+        "extension": "5424、5429",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "生產房",
+        "extension": "5425~26",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "SBR",
+        "extension": "5430~31",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "T.C.中心",
+        "extension": "5434~35",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "婦科全方位",
+        "extension": "5440~42",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "5A護理站",
+        "extension": "5530~32",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "6A護理站",
+        "extension": "5631、5633~35、5637",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "討論室",
+        "extension": "5634~35",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "定位室",
+        "extension": "5700",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "711診間",
+        "extension": "5701",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "712診間",
+        "extension": "5702",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "會議室",
+        "extension": "5703",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "放腫物理室",
+        "extension": "5704",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "防疫門診",
+        "extension": "5711",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "3D護理站",
+        "extension": "5730",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "書記辦公室",
+        "extension": "5731",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "治療室",
+        "extension": "5732",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "會議室",
+        "extension": "5733",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "準備室",
+        "extension": "5734",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "化療調配室",
+        "extension": "5743",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "人資會議室",
+        "extension": "5763",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "員工運動中心",
+        "extension": "5798",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "運輸組休息室",
+        "extension": "5900",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "裁縫間",
+        "extension": "5949",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "院牧會議室",
+        "extension": "5956",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "病歷行政區5962",
+        "extension": "5962",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "病歷量審區5963",
+        "extension": "5963",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "永大資源中心",
+        "extension": "7536866",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "三地門長照中心",
+        "extension": "7995139",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "保險組",
+        "extension": "3960~61、3964、3966~73",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "職安室",
+        "extension": "3975、3977~78",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "放腫櫃台",
+        "extension": "5705~06",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "健檢櫃台",
+        "extension": "5720~25#10~12",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "第一檢查室",
+        "extension": "5720~25#25",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "健檢診間",
+        "extension": "5720~25#27",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "腹超室",
+        "extension": "5720~25#28",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心超室",
+        "extension": "5720~25#29",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "麻醉準備及恢復室",
+        "extension": "5720~25#30",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "第二檢查室",
+        "extension": "5720~25#31",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "肺功能室",
+        "extension": "5720~25#32",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "第三檢查室",
+        "extension": "5720~25#33",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "麻醉評估室",
+        "extension": "5720~25#34",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心電圖室",
+        "extension": "5720~25#35",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內視鏡檢查室",
+        "extension": "5720~25#36",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "化療室",
+        "extension": "5741~42",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "培元門診",
+        "extension": "5746~48",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "人資室",
+        "extension": "5750、5753~56、5758~62",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "院牧部",
+        "extension": "5940~44、5957~58、5939",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診辦公室",
+        "extension": "5945~47",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "營養室",
+        "extension": "5950~52",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "營養室灌食廚房",
+        "extension": "5954(1F)",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "社醫部7~11專案",
+        "extension": "5961~62",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "病歷室值班5964~65",
+        "extension": "5964~65",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理部",
+        "extension": "5980~86",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "5F會議室",
+        "extension": "3944",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "警衛",
+        "extension": "7108",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "復健區",
+        "extension": "7302",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "診間",
+        "extension": "7503",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "警衛室",
+        "extension": "81111",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "復健批價掛號櫃枱",
+        "extension": "81112",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "復健科門診",
+        "extension": "81116",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "復健電療室",
+        "extension": "81118",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "人工掛號",
+        "extension": "81123",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "員工人工掛號",
+        "extension": "81123",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "體檢室",
+        "extension": "81203",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "會議室",
+        "extension": "81206",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "安寧居家護理師",
+        "extension": "81702",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "醫助辦公室",
+        "extension": "81705",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "醫師辦公室",
+        "extension": "81706",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "醫師值班室",
+        "extension": "81710",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "81712",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理站-護理之家",
+        "extension": "7415~16",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理站-護理之家",
+        "extension": "7501~02",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理站-護理之家",
+        "extension": "7601~02",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理站-護理之家",
+        "extension": "7710~11",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理站-護理之家",
+        "extension": "7810~11",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "企劃室",
+        "extension": "7904~05",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "社醫部",
+        "extension": "7931~34",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "復健治療室",
+        "extension": "81114~115",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "RT護理站",
+        "extension": "81330~331",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "RT護理站",
+        "extension": "81430~431",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "安寧病房",
+        "extension": "81530~531",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "安寧病房",
+        "extension": "81630~631",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "資訊室",
+        "extension": "81708~709、711",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "居家護理",
+        "extension": "7951~54",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理站",
+        "extension": "7980~81",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "辦公室",
+        "extension": "7983~84",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "三地門共融生活中心",
+        "extension": "代表號:08-7992206(總機)",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "三地門共融生活中心",
+        "extension": "08-7993789",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "三地門共融生活中心",
+        "extension": "08-7993199",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "三地門共融生活中心",
+        "extension": "08-7995319",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "工藝工房",
+        "extension": "1810",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "工藝工房",
+        "extension": "1811",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "日照中心",
+        "extension": "1812",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "日照中心",
+        "extension": "1813",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "失智據點",
+        "extension": "1815",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "失智據點",
+        "extension": "1816",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "支援(資源)中心",
+        "extension": "1817",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1821",
+        "name": "孔緹縈",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1822",
+        "name": "邱裕權",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1822",
+        "name": "劉開平",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1822",
+        "name": "謝少奇",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1823",
+        "name": "孫志豪",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1824",
+        "name": "運動區",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "長照A點",
+        "extension": "1825",
+        "name": "童若庭",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "長照A點",
+        "extension": "1826",
+        "name": "林鳳珍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "長照A點",
+        "extension": "1827",
+        "name": "蔡素梅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "長照A點",
+        "extension": "1828",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "經理辦公室",
+        "extension": "1830",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1831",
+        "name": "林明龍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "辦公室",
+        "extension": "1832",
+        "name": "宋嘉萍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1833",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "交誼廳",
+        "extension": "1834",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "五感教室(五)",
+        "extension": "1835",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "五感教室(六)",
+        "extension": "1836",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "多功能會議室",
+        "extension": "1837",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內科6A ",
+        "extension": "5632",
+        "name": "陳榆蓉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心臟血管暨神經內科6C",
+        "extension": "3634",
+        "name": "林佳蓓",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "外科5A",
+        "extension": "5533",
+        "name": "陳雅卿",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內科5C",
+        "extension": "3534",
+        "name": "林妙枝",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "骨科5B",
+        "extension": "4522",
+        "name": "陳冠蓁",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "婦產科4B",
+        "extension": "4422",
+        "name": "楊婉芬",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "產房4A",
+        "extension": "5423",
+        "name": "徐淑玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "嬰兒室BR",
+        "extension": "5423",
+        "name": "徐淑玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "小兒加護N/PICU",
+        "extension": "3412",
+        "name": "林靜宜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "病嬰室SBR",
+        "extension": "5432",
+        "name": "林靜宜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內科成人加護MICU",
+        "extension": "4315",
+        "name": "邱怡凡",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "外科成人加護SICU(含營養小組)",
+        "extension": "3313",
+        "name": "蔡佳紜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "開刀房OR",
+        "extension": "5317*28",
+        "name": "楊梅絹",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "小兒科2B ",
+        "extension": "4223",
+        "name": "陳金菊",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內科2C ",
+        "extension": "3234",
+        "name": "蘇玫帆",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "腫瘤3D",
+        "extension": "5745",
+        "name": "謝綿",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診ER",
+        "extension": "5019",
+        "name": "陳美錚",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內科6A ",
+        "extension": "5630〜5634",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "心臟血管暨神經內科6C",
+        "extension": "3630~3634",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "外科5A",
+        "extension": "5530〜5531",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內科5C",
+        "extension": "3530〜3531",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "骨科5B",
+        "extension": "4520〜4521",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "婦產科4B",
+        "extension": "4420〜4421",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "產房4A",
+        "extension": "5420〜5422",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "嬰兒室BR",
+        "extension": "5410〜5411",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "小兒加護N/PICU",
+        "extension": "3410〜3412",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "病嬰室SBR",
+        "extension": "5430〜5431",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內科成人加護MICU",
+        "extension": "4311〜4313",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "外科成人加護SICU(含營養小組)",
+        "extension": "3317~3321",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "開刀房OR",
+        "extension": "5311~5317",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "小兒科2B ",
+        "extension": "4220〜4222",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "內科2C ",
+        "extension": "3230〜3231",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "腫瘤3D",
+        "extension": "5730",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "急診ER",
+        "extension": "5110〜5124",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "供應室CSR",
+        "extension": "5227",
+        "name": "楊梅絹",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "呼吸照護中心RCC",
+        "extension": "3313",
+        "name": "蔡佳紜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "門診OPD",
+        "extension": "2311",
+        "name": "吳玉霞",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "呼吸照護病房RCW",
+        "extension": "81#712",
+        "name": "陳柏怡",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "安寧AN",
+        "extension": "81#712",
+        "name": "陳柏怡",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "洗腎室1HDR1",
+        "extension": "1622",
+        "name": "蘇祐瑩",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "洗腎室2HDR2",
+        "extension": "4112",
+        "name": "林妮妮",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "護理之家",
+        "extension": "7301",
+        "name": "薛玉皓",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "放射科",
+        "extension": "4521",
+        "name": "陳伊君",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "放射科",
+        "extension": "4521",
+        "name": "廖秋英",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "69012",
+        "name": "郭純彣",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "69158",
+        "name": "陳瑩純",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "69138",
+        "name": "張瓊文",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "安寧共同護理師",
+        "extension": "62032",
+        "name": "李詩玉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "恢復室",
+        "extension": "5315",
+        "name": "邱意雅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "感控室",
+        "extension": "2011",
+        "name": "周心寧",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "感控室",
+        "extension": "2012",
+        "name": "劉秀伶",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "感控室",
+        "extension": "2012",
+        "name": "李汶玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "供應室CSR",
+        "extension": "5227",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "呼吸照護中心RCC",
+        "extension": "3320~3321",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "門診OPD",
+        "extension": "2337、2338",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "呼吸照護病房RCW",
+        "extension": "81~331、431",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "安寧AN",
+        "extension": "81~531",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "洗腎室1HDR1",
+        "extension": "1621~1623",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "洗腎室2HDR2",
+        "extension": "4110",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "放射科",
+        "extension": "4521",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "2035",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "2038",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "2039",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "安寧共同護理師",
+        "extension": "2033",
+        "name": "",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2018",
+        "name": "賈淙翔",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2020",
+        "name": "曹宏益",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2021",
+        "name": "蕭如芹",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2022",
+        "name": "李志成",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2023",
+        "name": "唐朝生",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2024",
+        "name": "黃逸群",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2025",
+        "name": "蔡哲民",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2025",
+        "name": "張余師冠",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2027",
+        "name": "林琨璿",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2028",
+        "name": "林憲璋",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2029",
+        "name": "吳清濱",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2030",
+        "name": "徐仲彥",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2051",
+        "name": "林良哲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "4101",
+        "name": "陶大屏",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "4102",
+        "name": "王建文",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "4103",
+        "name": "李學明",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "4331",
+        "name": "李淑蓉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "4612",
+        "name": "張詠梅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5010",
+        "name": "陳秋榮",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5020",
+        "name": "林國耀",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5011~13",
+        "name": "蕭任妏",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1120",
+        "name": "陳郁婷",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2006",
+        "name": "吳哲維",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2007",
+        "name": "周惠芳",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2008",
+        "name": "譚義德",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2008",
+        "name": "杜寒梅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2009",
+        "name": "周惠強",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2010",
+        "name": "李忠成",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2011",
+        "name": "周心寧",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2015",
+        "name": "曹鳳純",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3010",
+        "name": "吳佳蓉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3011",
+        "name": "徐顯宗",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3012",
+        "name": "潘慧姿",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3012",
+        "name": "曾靖恩",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3013",
+        "name": "鄭酪緯",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3015",
+        "name": "陳家華",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3110",
+        "name": "滕文豹",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3111",
+        "name": "施丞貴",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3118",
+        "name": "江玫君",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5115",
+        "name": "周俊雄",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉11",
+        "name": "楊欣潔",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉14",
+        "name": "楊淑玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉15",
+        "name": "李佩容",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉16",
+        "name": "張雅雯",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉17",
+        "name": "許善馨",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉18",
+        "name": "林雅萍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉19",
+        "name": "蘇千予",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉20",
+        "name": "游瓊如",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2131轉12",
+        "name": "許秀華",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2131轉13",
+        "name": "林孟頴",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1230",
+        "name": "康家琦",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1231",
+        "name": "吳芳蕎",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1232",
+        "name": "林妙香",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1233",
+        "name": "林于婷",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1234",
+        "name": "郭文嘉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1324",
+        "name": "鄭伊伶",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2125",
+        "name": "陳芬英",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2229",
+        "name": "陳安妮",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2414",
+        "name": "連富川",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2414",
+        "name": "賴泯妤",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2415",
+        "name": "謝忻樺",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2415",
+        "name": "劉軒宇",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2416",
+        "name": "鄭惠鶯",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2416",
+        "name": "張詠晴",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2417",
+        "name": "蘇于綺",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2417",
+        "name": "林雅雯",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2418",
+        "name": "葉秀芳",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2420",
+        "name": "林淑君",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2421",
+        "name": "圖書館公用",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2422",
+        "name": "主管辦公室",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2425",
+        "name": "陳秀如",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2426",
+        "name": "何春梅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2427",
+        "name": "陳哩湘",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3113",
+        "name": "莊惠如",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉21",
+        "name": "林佳蓉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉26",
+        "name": "林美珍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉27",
+        "name": "楊貴英",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2132轉25",
+        "name": "楊麗蘭",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2325(62325)",
+        "name": "吳俊達",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2327(62327)",
+        "name": "郭欣翰",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2328(62328)",
+        "name": "黃家焜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2340(62340)",
+        "name": "郭志豪",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1105",
+        "name": "蔡瑋玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2421",
+        "name": "林淑君",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2752",
+        "name": "林詩涵",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2755",
+        "name": "高承志",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2757",
+        "name": "陳秋敏",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2758",
+        "name": "薛湘蓉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2759",
+        "name": "黃冠筌",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2760",
+        "name": "李佳穎",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5152",
+        "name": "姜怡芳(急診)",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5633",
+        "name": "羅惠玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1111~1113",
+        "name": "張玫惠",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1117/1110",
+        "name": "陳慧娟",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#10",
+        "name": "謝時鵬",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#11",
+        "name": "徐簡訊",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#12",
+        "name": "陳欣萍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#13",
+        "name": "蔡蟬娟",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#14",
+        "name": "王進仁",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#15",
+        "name": "李怡靜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#16",
+        "name": "黃惠敏",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#17",
+        "name": "龔家瑩",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#18",
+        "name": "呂癸欣",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#21",
+        "name": "吳姝怡",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#22",
+        "name": "王依涵",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#23",
+        "name": "簽收台",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#24",
+        "name": "非婦科處理區",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#25",
+        "name": "檢體處理區",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2322",
+        "name": "朱孝紋",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#10或1730",
+        "name": "蔡哲民",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#11",
+        "name": "吳世宏",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#12",
+        "name": "郭明麗",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#13",
+        "name": "朱芳珍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#14",
+        "name": "吳政達",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#15",
+        "name": "方道筌",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#16",
+        "name": "林鴻文",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#17",
+        "name": "曾璽叡",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#18",
+        "name": "吳曉菁",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#19",
+        "name": "陳坤助",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#20",
+        "name": "林辰彥",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#22",
+        "name": "謝東宏",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#23",
+        "name": "金瑞娥",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#24",
+        "name": "葉志恒",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#25",
+        "name": "曾秀敏",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#26",
+        "name": "趙庭",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#27",
+        "name": "林郁芳",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#28",
+        "name": "潘文彬",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#29",
+        "name": "崔皓為",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1405",
+        "name": "羅婌萓",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1413",
+        "name": "陳詩怡",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1416",
+        "name": "王麗雅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1417",
+        "name": "幸良蘭",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1422",
+        "name": "郭嘉玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1425",
+        "name": "鍾錦毅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1428",
+        "name": "蘇琬雯",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1603",
+        "name": "吳侖瑾",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1615",
+        "name": "鍾若麗",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1632",
+        "name": "劉思源",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1633",
+        "name": "張隆鐘",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1650",
+        "name": "曾士香",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1651",
+        "name": "蔡珮容",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1652",
+        "name": "林伶紅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1655",
+        "name": "沈泊香",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1656",
+        "name": "趙欣欣",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1658",
+        "name": "許慧莉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1661",
+        "name": "張超",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "2026",
+        "name": "林沼明",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5419",
+        "name": "吳蘭香",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5442",
+        "name": "劉德森",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1635/1414",
+        "name": "黃雅芳",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1653(3939)",
+        "name": "張正鴻",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#111",
+        "name": "李淑媛",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#112",
+        "name": "吳明容",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#113",
+        "name": "王暄喬",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#115",
+        "name": "林佳儒",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#116",
+        "name": "徐榕君",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#117",
+        "name": "赫湘雅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#118",
+        "name": "行政助理",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5003",
+        "name": "吳讚美",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5003",
+        "name": "許芳瑜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5750",
+        "name": "劉淑梅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5753",
+        "name": "施玉品",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5754",
+        "name": "張嘉鈴",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5755",
+        "name": "洪嘉雯",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5756",
+        "name": "楊承芳",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5757",
+        "name": "楊婕諭",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5758",
+        "name": "林洢丞",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5759",
+        "name": "林文芳",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5760",
+        "name": "陳秋萱",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5761",
+        "name": "戴雅佩",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5762",
+        "name": "施彥伶",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5763",
+        "name": "會議室",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5931",
+        "name": "黃麗婉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5932",
+        "name": "林庭卉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5933",
+        "name": "鄭琬馨",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5934",
+        "name": "莊千葳",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5935",
+        "name": "陳莉琪",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5936",
+        "name": "郭苔娟",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5937",
+        "name": "林恩琴",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5938",
+        "name": "醫師閱覽室",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5939",
+        "name": "許惠珍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5940",
+        "name": "鍾興叡",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5944",
+        "name": "何啟元",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5957",
+        "name": "潘淑玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5958",
+        "name": "黃雅琪",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5960",
+        "name": "馬事佐",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5961",
+        "name": "李欣怡",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5990",
+        "name": "吳瑞敏",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": " 5950~52#20",
+        "name": "莊竣程",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": " 5950~52#28",
+        "name": "賴聖允",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": " 5950~52#29",
+        "name": "曾柏源",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#14",
+        "name": "郭美雪",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#15",
+        "name": "黃秀玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#16",
+        "name": "李筱薇",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#16",
+        "name": "湯淑芬",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#17",
+        "name": "陳錦雪",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#18",
+        "name": "許惠絹",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#19",
+        "name": "廖玉貴",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#20",
+        "name": "莊惠如",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#21",
+        "name": "潘俐雯",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#22",
+        "name": "郭懿萱",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#23",
+        "name": "黃貞文",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#24",
+        "name": "黃雅芳",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#26",
+        "name": "謝亞璇",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#26",
+        "name": "劉羚櫻",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#21",
+        "name": "杜中庸",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#22",
+        "name": "徐桂婷",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#23",
+        "name": "陳彥璋",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#24",
+        "name": "丁子俽",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#25",
+        "name": "蔡欣妤",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#26",
+        "name": "陳怡婷",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#27",
+        "name": "林姿瑜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "5954或5950~52#11",
+        "name": "廚房 ",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "736-8366",
+        "name": "馮清風",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "736-8366",
+        "name": "吳俊甫",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "736-8366",
+        "name": "吳昌銘",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "736-8737",
+        "name": "劉雪玉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7937(護家)",
+        "name": "劉慧玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3900",
+        "name": "邱芬娟",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3901",
+        "name": "包淑惠",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3902",
+        "name": "陳莉娜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3903",
+        "name": "何瑞衡",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3904",
+        "name": "蔡亞璇",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3905",
+        "name": "蘇筱琪",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3906",
+        "name": "何敏慈",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3910",
+        "name": "主任",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3911",
+        "name": "趙一珍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3912",
+        "name": "林玟萱",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3913",
+        "name": "王珮靜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3914",
+        "name": "張簡婷",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3915",
+        "name": "陳彥婷",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3917",
+        "name": "陳洛珍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3918",
+        "name": "丁麗惠",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3919",
+        "name": "趙翊婷",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3920",
+        "name": "陳美莉",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3921",
+        "name": "郭冠廷",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3922",
+        "name": "蔡孟君",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3931",
+        "name": "盧靜慧",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3932",
+        "name": "杜瓊玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3934",
+        "name": "洪德昌",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3935",
+        "name": "劉筑婷",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3937",
+        "name": "李慧玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3940",
+        "name": "吳瑞敏",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3942",
+        "name": "黃柏翰",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3943",
+        "name": "余玉竹",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3945",
+        "name": "馬玉馨",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3947",
+        "name": "蘇姿安",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3948",
+        "name": "吳宗樹",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3950",
+        "name": "陶阿倫",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3951",
+        "name": "陳寶珍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3952",
+        "name": "許煌澤",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3960",
+        "name": "馬事佐",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3961",
+        "name": "黃淑英",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3964",
+        "name": "楊宜樺",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3966",
+        "name": "曾芊慈",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3967",
+        "name": "葉怡萍",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3968",
+        "name": "張純菁",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3969",
+        "name": "吳慧鈺",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3970",
+        "name": "廖淑芬",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3971",
+        "name": "鄭瀅汝",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3972",
+        "name": "何秋霞",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3973",
+        "name": "李佩勳",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3975",
+        "name": "杜傳榮",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3977",
+        "name": "范佳瑜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "3978",
+        "name": "林偉婷",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7108",
+        "name": "護理之家1F警衛",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7301",
+        "name": "薛玉皓",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7917",
+        "name": "玉楨",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7937",
+        "name": "劉慧玲",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7904~05#10",
+        "name": "潘成婷",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7904~05#11",
+        "name": "黃國彥",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7904~05#12",
+        "name": "停佑恩",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7904~05#13",
+        "name": "楊詠竹",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7904~05#14",
+        "name": "張博宜",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7931~34#11、7937",
+        "name": "劉慧玲督導",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7931~34#18",
+        "name": "潘慈昣",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7931~34#22",
+        "name": "黃靜梅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7931~34#25",
+        "name": "林淑娟",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7931~34#27",
+        "name": "緊急救援",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7951~52#12",
+        "name": "廖淑英",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7951~52#13",
+        "name": "孫宗慧",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7951~52#15",
+        "name": "陳瑩純",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7951~52#17",
+        "name": "邱愛美",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "7951~52#18",
+        "name": "許純華",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#112",
+        "name": "吳明容",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#116",
+        "name": "徐榕君",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#117",
+        "name": "赫湘雅",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#113",
+        "name": "王暄喬",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#115",
+        "name": "林佳儒",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#111",
+        "name": "李淑媛",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#118",
+        "name": "陳佩雯",
+        "mobile_short_code": ""
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "10F居服員",
+        "mobile_short_code": "67982"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "2C、3D",
+        "mobile_short_code": "63418"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "4F居服員",
+        "mobile_short_code": "67417"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "5F居服員",
+        "mobile_short_code": "67504"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "6F居服員",
+        "mobile_short_code": "67661"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "7F居服員",
+        "mobile_short_code": "67712"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "8F居服員",
+        "mobile_short_code": "67812"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "ICU",
+        "mobile_short_code": "69282"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "PGY",
+        "mobile_short_code": "69039"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "PGY",
+        "mobile_short_code": "69217"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "PGY",
+        "mobile_short_code": "69220"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "PGY",
+        "mobile_short_code": "69288"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "PGY",
+        "mobile_short_code": "69406"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "PGY",
+        "mobile_short_code": "69073"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "SR",
+        "mobile_short_code": "62111"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "丁子俽",
+        "mobile_short_code": "69425"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "丁昱仁",
+        "mobile_short_code": "69378"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "山巡門診",
+        "mobile_short_code": "69900"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "工務值班",
+        "mobile_short_code": "62021"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "中午值(2).專案",
+        "mobile_short_code": "69525"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "中午值(3).小夜(2)",
+        "mobile_short_code": "69526"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "內科",
+        "mobile_short_code": "69205"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "公用",
+        "mobile_short_code": "69331"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "公用",
+        "mobile_short_code": "67601~03"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "公用",
+        "mobile_short_code": "69356"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "尤顥宇",
+        "mobile_short_code": "69334"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "尹允宜",
+        "mobile_short_code": "69249"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "支援醫師",
+        "mobile_short_code": "69009"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王于瑄",
+        "mobile_short_code": "69398"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王仁星",
+        "mobile_short_code": "69079"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王佳婕",
+        "mobile_short_code": "69477"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王建文",
+        "mobile_short_code": "69315"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王建銘",
+        "mobile_short_code": "69826"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王重元",
+        "mobile_short_code": "69100"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王家欽",
+        "mobile_short_code": "69199"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王國揚",
+        "mobile_short_code": "65310"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王笠軒",
+        "mobile_short_code": "69549"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王惠君",
+        "mobile_short_code": "69097"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王雅慧",
+        "mobile_short_code": "69600"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王暄喬",
+        "mobile_short_code": "69298"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王慧君",
+        "mobile_short_code": "69416"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王慧懿",
+        "mobile_short_code": "69390"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王麗雅",
+        "mobile_short_code": "61416"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "外出用",
+        "mobile_short_code": "69027"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "外出用",
+        "mobile_short_code": "69304"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "外科",
+        "mobile_short_code": "69208"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "田家榮",
+        "mobile_short_code": "61624"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "田蕙雯",
+        "mobile_short_code": "69237"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吉祥",
+        "mobile_short_code": "69122"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "朱淑媛",
+        "mobile_short_code": "69165"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "江玫君",
+        "mobile_short_code": "63118"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "江慈馨",
+        "mobile_short_code": "69166"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "至ICU專用",
+        "mobile_short_code": "61622"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "血友病專線",
+        "mobile_short_code": "69376"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "何姿儀",
+        "mobile_short_code": "69353"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "何春梅",
+        "mobile_short_code": "69200"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "何美羚",
+        "mobile_short_code": "69137"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "何啟元",
+        "mobile_short_code": "65944"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "余珮芬",
+        "mobile_short_code": "69800"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳文智",
+        "mobile_short_code": "69449"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳玉霞",
+        "mobile_short_code": "62338"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳佳蓉",
+        "mobile_short_code": "63010"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳侖瑾",
+        "mobile_short_code": "61603"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳忠鴻",
+        "mobile_short_code": "69029"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳怡慧",
+        "mobile_short_code": "69162"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳明昇",
+        "mobile_short_code": "69408"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳明容",
+        "mobile_short_code": "69145"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳芳蕎",
+        "mobile_short_code": "69226"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳俊達",
+        "mobile_short_code": "62325"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳姵陵",
+        "mobile_short_code": "69301"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳姿瑩",
+        "mobile_short_code": "69307"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳英宜",
+        "mobile_short_code": "69245"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳哲維",
+        "mobile_short_code": "62006"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳敏禎",
+        "mobile_short_code": "69132"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳清淵",
+        "mobile_short_code": "69419"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳清濱",
+        "mobile_short_code": "62029"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳瑞敏",
+        "mobile_short_code": "61710"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳榮州",
+        "mobile_short_code": "61631"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳蘭香",
+        "mobile_short_code": "69062"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "宋子宣",
+        "mobile_short_code": "69257"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "宋嘉萍",
+        "mobile_short_code": "69221"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李心白",
+        "mobile_short_code": "69090"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李日馳",
+        "mobile_short_code": "69206"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李正涼",
+        "mobile_short_code": "69212"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李兆程",
+        "mobile_short_code": "69194"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李羽仁",
+        "mobile_short_code": "69422"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李志文",
+        "mobile_short_code": "69037"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李志成",
+        "mobile_short_code": "62022"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李汶玲",
+        "mobile_short_code": "69436"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李秀貞",
+        "mobile_short_code": "69423"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李佩容",
+        "mobile_short_code": "69103"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李孟蓉",
+        "mobile_short_code": "69429"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李宗龍",
+        "mobile_short_code": "69078"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李宜學",
+        "mobile_short_code": "60506"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李忠成",
+        "mobile_short_code": "69193"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李明杰",
+        "mobile_short_code": "69003"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李知訓",
+        "mobile_short_code": "69198"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李青樺",
+        "mobile_short_code": "69129"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李冠諺",
+        "mobile_short_code": "69126"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李彥羲",
+        "mobile_short_code": "69146"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李映昀",
+        "mobile_short_code": "69410"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李春綢",
+        "mobile_short_code": "64311"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李昱瑩",
+        "mobile_short_code": "69046"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李美蓉",
+        "mobile_short_code": "69421"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李欲禎",
+        "mobile_short_code": "69161"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李淑媛",
+        "mobile_short_code": "69163"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李淑蓉",
+        "mobile_short_code": "64331"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李紹銘",
+        "mobile_short_code": "69125"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李惠美",
+        "mobile_short_code": "69266"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李楷群",
+        "mobile_short_code": "69104"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李詩玉",
+        "mobile_short_code": "62032"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李慧玲",
+        "mobile_short_code": "67920"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李學明",
+        "mobile_short_code": "69360"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李靜枝",
+        "mobile_short_code": "69071"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李鎮芳",
+        "mobile_short_code": "69275"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李蘭花",
+        "mobile_short_code": "69072"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "杜中庸",
+        "mobile_short_code": "69228"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "杜佳培",
+        "mobile_short_code": "69448"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "杜明忠",
+        "mobile_short_code": "69267"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "杜傳榮",
+        "mobile_short_code": "69170"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "杜瓊玲",
+        "mobile_short_code": "67951"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "阮盛豪",
+        "mobile_short_code": "69022"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "卓德松",
+        "mobile_short_code": "61634"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周心寧",
+        "mobile_short_code": "62011"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周宗賢",
+        "mobile_short_code": "69424"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周俊雄",
+        "mobile_short_code": "69180"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周惠芳",
+        "mobile_short_code": "62008"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周惠強",
+        "mobile_short_code": "62009"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周湘陵",
+        "mobile_short_code": "69428"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周義",
+        "mobile_short_code": "69179"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "夜間TC",
+        "mobile_short_code": "69529"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "幸良蘭",
+        "mobile_short_code": "61417"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "放射科值班",
+        "mobile_short_code": "69183"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林忠",
+        "mobile_short_code": "69032"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林于婷",
+        "mobile_short_code": "69173"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林子琳",
+        "mobile_short_code": "69467"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林少鈞",
+        "mobile_short_code": "69417"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林妍伶",
+        "mobile_short_code": "69322"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林妙枝",
+        "mobile_short_code": "63530"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林妙香",
+        "mobile_short_code": "69376"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林妙香",
+        "mobile_short_code": "69498"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林良哲",
+        "mobile_short_code": "69346"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林佳蓉",
+        "mobile_short_code": "69069"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林佳慧",
+        "mobile_short_code": "69323"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林佳儒",
+        "mobile_short_code": "69312"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林佳錚",
+        "mobile_short_code": "69398"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林妮妮",
+        "mobile_short_code": "64110"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林孟",
+        "mobile_short_code": "69300"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林孟華",
+        "mobile_short_code": "69258"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林怡君",
+        "mobile_short_code": "69250"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林明龍",
+        "mobile_short_code": "69485"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林松俊",
+        "mobile_short_code": "69091"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林沼明",
+        "mobile_short_code": "69098"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林采鏡",
+        "mobile_short_code": "69055"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林青弘",
+        "mobile_short_code": "69379"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林姿瑜",
+        "mobile_short_code": "69191"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林美芳",
+        "mobile_short_code": "69045"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林美珍",
+        "mobile_short_code": "69336"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林家誠",
+        "mobile_short_code": "69455"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林紘丞",
+        "mobile_short_code": "69153"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林偉婷",
+        "mobile_short_code": "69136"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林淑娟",
+        "mobile_short_code": "67311"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林淑萍",
+        "mobile_short_code": "69251"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林連豐",
+        "mobile_short_code": "69000"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林崴瑀",
+        "mobile_short_code": "69399"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林景美",
+        "mobile_short_code": "69259"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林琨璿",
+        "mobile_short_code": "62027"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林舜原",
+        "mobile_short_code": "69130"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林雅萍",
+        "mobile_short_code": "69112"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林慈家",
+        "mobile_short_code": "69309"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林楚樵",
+        "mobile_short_code": "69011"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林筱芙",
+        "mobile_short_code": "69519"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林群峰",
+        "mobile_short_code": "69026"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林詩涵",
+        "mobile_short_code": "69397"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林鈺蓉",
+        "mobile_short_code": "69359"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林維聰",
+        "mobile_short_code": "64111"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林鳳珍",
+        "mobile_short_code": "69140"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林慧萍",
+        "mobile_short_code": "69306"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林學民",
+        "mobile_short_code": "69107"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林憲璋",
+        "mobile_short_code": "62028"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林樹芬",
+        "mobile_short_code": "69076"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林錫賢",
+        "mobile_short_code": "69777"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林靜宜",
+        "mobile_short_code": "69024"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林靜宜",
+        "mobile_short_code": "69024"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱仁治",
+        "mobile_short_code": "69004"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱文信",
+        "mobile_short_code": "65019"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱文信",
+        "mobile_short_code": "65019"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱文智",
+        "mobile_short_code": "69827"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱秀玲",
+        "mobile_short_code": "69260"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱京玲",
+        "mobile_short_code": "69362"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱怡凡",
+        "mobile_short_code": "64312"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱芬娟",
+        "mobile_short_code": "67906"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱金菊",
+        "mobile_short_code": "69393"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱俊宏",
+        "mobile_short_code": "69528"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱美枝",
+        "mobile_short_code": "69284"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱國忠",
+        "mobile_short_code": "69845"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱淨銀",
+        "mobile_short_code": "69261"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱雅琴",
+        "mobile_short_code": "69229"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱嘉寶",
+        "mobile_short_code": "69230"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "長照警衛",
+        "mobile_short_code": "69328"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "門診1樓.小夜(3)",
+        "mobile_short_code": "69527"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "門診2.3樓",
+        "mobile_short_code": "69503"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "門診病歷2樓",
+        "mobile_short_code": "69520"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "門診病歷3樓",
+        "mobile_short_code": "69521"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "門診庶務",
+        "mobile_short_code": "69192"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "保留",
+        "mobile_short_code": "69439"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "急診.中午.小夜.大夜",
+        "mobile_short_code": "69524"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "急診X光值班",
+        "mobile_short_code": "69184"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "急診警衛",
+        "mobile_short_code": "69077"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "施丞貴",
+        "mobile_short_code": "69181"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "柯文升",
+        "mobile_short_code": "69364"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪玉瑩",
+        "mobile_short_code": "69031"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪妍玲",
+        "mobile_short_code": "69276"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪哲洲",
+        "mobile_short_code": "69016"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪恩惠",
+        "mobile_short_code": "69452"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪婉甄",
+        "mobile_short_code": "69490"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪嫻榛",
+        "mobile_short_code": "69452"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪慶憲",
+        "mobile_short_code": "69074"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "胡皓桓",
+        "mobile_short_code": "69018"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "胡詩偉",
+        "mobile_short_code": "69070"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "范立冀",
+        "mobile_short_code": "69142"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班",
+        "mobile_short_code": "61623"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班",
+        "mobile_short_code": "64112"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班",
+        "mobile_short_code": "69278"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班1",
+        "mobile_short_code": "69339"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班1",
+        "mobile_short_code": "69342"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班2",
+        "mobile_short_code": "69340"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班2",
+        "mobile_short_code": "69343"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班3",
+        "mobile_short_code": "69345"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班社工",
+        "mobile_short_code": "62416"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班專用",
+        "mobile_short_code": "65312"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班護理長",
+        "mobile_short_code": "69332"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "唐朝生",
+        "mobile_short_code": "62023"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "孫志豪",
+        "mobile_short_code": "69402"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "孫宗慧",
+        "mobile_short_code": "69214"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "徐以樂",
+        "mobile_short_code": "69063"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "徐仲彥",
+        "mobile_short_code": "69159"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "徐桂婷",
+        "mobile_short_code": "69254"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "徐禮平",
+        "mobile_short_code": "69017"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "徐簡訊",
+        "mobile_short_code": "62601"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "涂愛霞",
+        "mobile_short_code": "61730"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "涂嘉明",
+        "mobile_short_code": "69088"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "病歷值班",
+        "mobile_short_code": "69308"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "秦有育",
+        "mobile_short_code": "69050"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郝繼隆",
+        "mobile_short_code": "69006"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "院外醫療活動",
+        "mobile_short_code": "67269"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馬玉馨",
+        "mobile_short_code": "69025"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馬事佐",
+        "mobile_short_code": "69115"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馬美芳",
+        "mobile_short_code": "69494"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馬智鵬",
+        "mobile_short_code": "69352"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "高承志",
+        "mobile_short_code": "61120"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "高肇隆",
+        "mobile_short_code": "69038"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "高樹專車",
+        "mobile_short_code": "69338"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "停佑恩",
+        "mobile_short_code": "69185"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "健康櫥窗(自費中心)",
+        "mobile_short_code": "69666"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "康家琦",
+        "mobile_short_code": "69202"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張冬瑀",
+        "mobile_short_code": "69733"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張正鴻",
+        "mobile_short_code": "61653"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張玉立",
+        "mobile_short_code": "69034"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張年生",
+        "mobile_short_code": "69310"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張余師冠",
+        "mobile_short_code": "62030"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張玫惠",
+        "mobile_short_code": "69066"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張庭容",
+        "mobile_short_code": "69289"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張琇惠",
+        "mobile_short_code": "69252"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張博宜",
+        "mobile_short_code": "69044"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張琳遂",
+        "mobile_short_code": "69291"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張詠梅",
+        "mobile_short_code": "69491"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張詠晴",
+        "mobile_short_code": "69043"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張超",
+        "mobile_short_code": "69319"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張隆鐘",
+        "mobile_short_code": "69496"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張雅萍",
+        "mobile_short_code": "64224"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張雅雯",
+        "mobile_short_code": "69014"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張雲德",
+        "mobile_short_code": "69007"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張靜芳",
+        "mobile_short_code": "69453"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張鴻耀",
+        "mobile_short_code": "69054"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張瓊文",
+        "mobile_short_code": "69138"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "救護車1",
+        "mobile_short_code": "69329"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "救護車2",
+        "mobile_short_code": "69330"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "救護車3",
+        "mobile_short_code": "69333"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曹宏益",
+        "mobile_short_code": "62026"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曹鳳純",
+        "mobile_short_code": "69365"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "梁子安",
+        "mobile_short_code": "69513"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "梁修豪",
+        "mobile_short_code": "69196"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "梁恩惠",
+        "mobile_short_code": "69274"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "梁偉成",
+        "mobile_short_code": "69464"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "組長-葉鳳凰",
+        "mobile_short_code": "65536"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "莊玉美",
+        "mobile_short_code": "69116"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "莊岳泉",
+        "mobile_short_code": "69020"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "莊芷萍",
+        "mobile_short_code": "69473"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "莊竣程",
+        "mobile_short_code": "69354"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "莊詩蘋",
+        "mobile_short_code": "65311"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許秀華",
+        "mobile_short_code": "69169"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許芳瑜",
+        "mobile_short_code": "69382"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許春蘭",
+        "mobile_short_code": "69401"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許家祥",
+        "mobile_short_code": "69151"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許純華",
+        "mobile_short_code": "69210"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許博翔",
+        "mobile_short_code": "67829"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許善馨",
+        "mobile_short_code": "69480"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許惠珍",
+        "mobile_short_code": "65939"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許榮文",
+        "mobile_short_code": "67900"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許慧莉",
+        "mobile_short_code": "61658"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "連富川",
+        "mobile_short_code": "69057"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭文嘉",
+        "mobile_short_code": "69203"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭立杰",
+        "mobile_short_code": "69386"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭志榮",
+        "mobile_short_code": "69021"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭志豪",
+        "mobile_short_code": "62340"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭怡君",
+        "mobile_short_code": "69253"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭欣翰",
+        "mobile_short_code": "62327"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭美月",
+        "mobile_short_code": "69358"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭純彣",
+        "mobile_short_code": "69012"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭嘉玲",
+        "mobile_short_code": "61429"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭慕儀",
+        "mobile_short_code": "69127"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳一旭",
+        "mobile_short_code": "69324"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳安妮",
+        "mobile_short_code": "69351"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳志文",
+        "mobile_short_code": "69120"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳志如",
+        "mobile_short_code": "69092"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳志豪",
+        "mobile_short_code": "69155"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳姉瑜",
+        "mobile_short_code": "69462"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳孟穎",
+        "mobile_short_code": "69277"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳宜君",
+        "mobile_short_code": "69285"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳明宏",
+        "mobile_short_code": "69070"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳泓賓",
+        "mobile_short_code": "69117"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳芬英",
+        "mobile_short_code": "61125"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳金菊",
+        "mobile_short_code": "65630"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳亮仁",
+        "mobile_short_code": "69035"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳冠蓁",
+        "mobile_short_code": "69239"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳勇璋",
+        "mobile_short_code": "69368"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳奕森",
+        "mobile_short_code": "69396"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳建銘",
+        "mobile_short_code": "69167"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳彥璋",
+        "mobile_short_code": "69487"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳昱丞",
+        "mobile_short_code": "69270"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳昶宏",
+        "mobile_short_code": "69058"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳柏均",
+        "mobile_short_code": "69177"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳柏怡",
+        "mobile_short_code": "69084"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳柏潤",
+        "mobile_short_code": "69357"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳秋敏",
+        "mobile_short_code": "65218"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳秋榮",
+        "mobile_short_code": "69141"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳秋蓉",
+        "mobile_short_code": "69348"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳美如",
+        "mobile_short_code": "69294"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳美錚",
+        "mobile_short_code": "69113"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳郁婷",
+        "mobile_short_code": "69148"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳素華",
+        "mobile_short_code": "69236"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳國仁",
+        "mobile_short_code": "62019"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳淑娟",
+        "mobile_short_code": "69215"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳雅卿",
+        "mobile_short_code": "69204"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳榆蓉",
+        "mobile_short_code": "64318"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳毓仁",
+        "mobile_short_code": "69101"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳儀芳",
+        "mobile_short_code": "69238"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳德珺",
+        "mobile_short_code": "69279"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳慧娟",
+        "mobile_short_code": "69190"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳慧娟",
+        "mobile_short_code": "69176"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳瑩純",
+        "mobile_short_code": "69158"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳靜茹",
+        "mobile_short_code": "69123"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳懷民",
+        "mobile_short_code": "69109"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陶大屏",
+        "mobile_short_code": "69320"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "傅雪美",
+        "mobile_short_code": "69040"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "單玉安",
+        "mobile_short_code": "69030"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "單位公用",
+        "mobile_short_code": "65112"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "單位公用",
+        "mobile_short_code": "65021"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "單位公用",
+        "mobile_short_code": "69389"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "單位公用",
+        "mobile_short_code": "65950"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "單位公用",
+        "mobile_short_code": "69059"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "單位公用",
+        "mobile_short_code": "69013"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "彭芹",
+        "mobile_short_code": "69318"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "彭裴恩",
+        "mobile_short_code": "69019"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾士香",
+        "mobile_short_code": "61701"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾士銓",
+        "mobile_short_code": "69469"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾文盛",
+        "mobile_short_code": "69033"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾秀玉",
+        "mobile_short_code": "69255"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾和惠",
+        "mobile_short_code": "69187"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾柏源",
+        "mobile_short_code": "69434"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾瑞慧",
+        "mobile_short_code": "69201"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "温玉楨",
+        "mobile_short_code": "65942"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "温怡然",
+        "mobile_short_code": "69392"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "開刀房、心導管",
+        "mobile_short_code": "69530"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馮宥訢",
+        "mobile_short_code": "69213"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馮鑑昌",
+        "mobile_short_code": "69369"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃文慈",
+        "mobile_short_code": "69149"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃勁夫",
+        "mobile_short_code": "69157"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃勇誠",
+        "mobile_short_code": "69171"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃哲南",
+        "mobile_short_code": "69426"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃家焜",
+        "mobile_short_code": "62328"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃偉春",
+        "mobile_short_code": "69233"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃國彥",
+        "mobile_short_code": "69391"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃莉雯",
+        "mobile_short_code": "69488"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃富槻",
+        "mobile_short_code": "69052"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃渝仁",
+        "mobile_short_code": "69497"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃逸群",
+        "mobile_short_code": "62024"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃雅芳",
+        "mobile_short_code": "61414"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃雅琪",
+        "mobile_short_code": "65958"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃筱婷",
+        "mobile_short_code": "69189"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃經洲",
+        "mobile_short_code": "69207"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃聖榮",
+        "mobile_short_code": "69041"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃靖雯",
+        "mobile_short_code": "62112"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃漢傑",
+        "mobile_short_code": "69053"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃銘弘",
+        "mobile_short_code": "69690"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃靜梅",
+        "mobile_short_code": "69144"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃瓊瑤",
+        "mobile_short_code": "69051"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃馨萱",
+        "mobile_short_code": "69299"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊文祺",
+        "mobile_short_code": "69483"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊宗霈",
+        "mobile_short_code": "69478"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊宛盈",
+        "mobile_short_code": "69482"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊芷意",
+        "mobile_short_code": "69405"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊恩智",
+        "mobile_short_code": "69409"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊珮琳",
+        "mobile_short_code": "69311"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊婉芬",
+        "mobile_short_code": "69269"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊梅絹",
+        "mobile_short_code": "65313"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊淑玲",
+        "mobile_short_code": "69047"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊惠珊",
+        "mobile_short_code": "69512"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊惠雲",
+        "mobile_short_code": "69256"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊皓年",
+        "mobile_short_code": "69438"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊紫麟",
+        "mobile_short_code": "69240"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊詠竹",
+        "mobile_short_code": "69366"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊貴英",
+        "mobile_short_code": "69388"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊順興",
+        "mobile_short_code": "69495"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊麗秋",
+        "mobile_short_code": "69224"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊麗蘭",
+        "mobile_short_code": "69219"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "瑞光分院",
+        "mobile_short_code": "69531"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "瑞光分院/護理之家",
+        "mobile_short_code": "69500"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "瑞光警衛",
+        "mobile_short_code": "69327"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "萬樹人",
+        "mobile_short_code": "60315"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "葉秀芳",
+        "mobile_short_code": "62414"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "葉姿伶",
+        "mobile_short_code": "69518"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "葉貞妙",
+        "mobile_short_code": "69244"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "葉淑惠",
+        "mobile_short_code": "69430"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "葉銘嵩",
+        "mobile_short_code": "69433"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "董明正",
+        "mobile_short_code": "69080"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "詹玉琴",
+        "mobile_short_code": "69143"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "詹益群",
+        "mobile_short_code": "69023"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "詹淑如",
+        "mobile_short_code": "69172"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "詹雅淇",
+        "mobile_short_code": "69492"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賈力耕",
+        "mobile_short_code": "69293"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賈淙翔",
+        "mobile_short_code": "62018"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄒復",
+        "mobile_short_code": "69114"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廖秀珠",
+        "mobile_short_code": "63235"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廖邦淳",
+        "mobile_short_code": "69443"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廖淑英",
+        "mobile_short_code": "69216"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廖淑蓮",
+        "mobile_short_code": "69133"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廖翊馨",
+        "mobile_short_code": "69028"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "赫湘雅",
+        "mobile_short_code": "69287"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "趙台駿",
+        "mobile_short_code": "69454"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "趙廷正",
+        "mobile_short_code": "69094"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "趙依純",
+        "mobile_short_code": "69159"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "趙欣欣",
+        "mobile_short_code": "61633"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉士傑",
+        "mobile_short_code": "69131"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉至翰",
+        "mobile_short_code": "69156"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉秀伶",
+        "mobile_short_code": "62012"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉思源",
+        "mobile_short_code": "69086"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉柏屏",
+        "mobile_short_code": "69290"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉振聲",
+        "mobile_short_code": "69160"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉軒宇",
+        "mobile_short_code": "69106"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉淑梅",
+        "mobile_short_code": "67910"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉淑菁",
+        "mobile_short_code": "69241"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉程祥",
+        "mobile_short_code": "69309"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉筱娟",
+        "mobile_short_code": "69234"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉德森",
+        "mobile_short_code": "69060"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉慧玲",
+        "mobile_short_code": "69005"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉曉恩",
+        "mobile_short_code": "62613"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉謹誼",
+        "mobile_short_code": "69489"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廚房公用",
+        "mobile_short_code": "65953"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "滕文豹",
+        "mobile_short_code": "69182"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘文彬",
+        "mobile_short_code": "69412"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘成婷",
+        "mobile_short_code": "69316"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘秀珍",
+        "mobile_short_code": "69124"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘素菁",
+        "mobile_short_code": "69242"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘淑玲",
+        "mobile_short_code": "65957"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘慈昣",
+        "mobile_short_code": "69335"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘慕嵩",
+        "mobile_short_code": "69440"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘麗花",
+        "mobile_short_code": "69481"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潮州專車",
+        "mobile_short_code": "69337"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡元榮",
+        "mobile_short_code": "69606"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡尹真",
+        "mobile_short_code": "69400"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡文琪",
+        "mobile_short_code": "69484"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡佳芬",
+        "mobile_short_code": "69413"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡佳紜",
+        "mobile_short_code": "63412"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡宛紜",
+        "mobile_short_code": "69168"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡明璋",
+        "mobile_short_code": "69243"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡欣妤",
+        "mobile_short_code": "69150"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡哲民",
+        "mobile_short_code": "62320"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡哲民",
+        "mobile_short_code": "62025"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡珮容",
+        "mobile_short_code": "61651"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡素梅",
+        "mobile_short_code": "69463"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡捷如",
+        "mobile_short_code": "69517"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡朝義",
+        "mobile_short_code": "69128"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡瑋玲",
+        "mobile_short_code": "61105"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡蕙憶",
+        "mobile_short_code": "69085"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔣美蘭",
+        "mobile_short_code": "69281"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭子龍",
+        "mobile_short_code": "69175"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭巧旻",
+        "mobile_short_code": "69474"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭伊伶",
+        "mobile_short_code": "69105"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭素雲",
+        "mobile_short_code": "69246"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭淑敏",
+        "mobile_short_code": "69265"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭淑萍",
+        "mobile_short_code": "69211"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭惠鶯",
+        "mobile_short_code": "69350"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭嘉方",
+        "mobile_short_code": "69056"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭維真",
+        "mobile_short_code": "63419"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "學童健檢",
+        "mobile_short_code": "69511"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "盧君",
+        "mobile_short_code": "69377"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "盧威達",
+        "mobile_short_code": "69411"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "盧思遠",
+        "mobile_short_code": "69471"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "盧逸謹",
+        "mobile_short_code": "69409"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "盧靜慧",
+        "mobile_short_code": "61712"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蕭任妏",
+        "mobile_short_code": "69223"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蕭崇聖",
+        "mobile_short_code": "69081"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蕭善良",
+        "mobile_short_code": "69010"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蕭麗萍",
+        "mobile_short_code": "69272"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賴亞玲",
+        "mobile_short_code": "69247"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賴宗志",
+        "mobile_short_code": "69551"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賴炳彰",
+        "mobile_short_code": "69197"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賴慧慈",
+        "mobile_short_code": "69283"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "錢家陞",
+        "mobile_short_code": "69317"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "龍春紹",
+        "mobile_short_code": "69314"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "戴美琴",
+        "mobile_short_code": "69385"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "檢查室值班",
+        "mobile_short_code": "69225"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "總院警衛1",
+        "mobile_short_code": "69326"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "總院警衛2",
+        "mobile_short_code": "69321"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "總機",
+        "mobile_short_code": "608888"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "薛玉皓",
+        "mobile_short_code": "62337"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "薛彩辰",
+        "mobile_short_code": "69479"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "襄理-朱敬理",
+        "mobile_short_code": "63021"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝忻樺",
+        "mobile_short_code": "69451"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝時鵬",
+        "mobile_short_code": "62600"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝晉文",
+        "mobile_short_code": "69015"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝偉倫",
+        "mobile_short_code": "69042"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝綿",
+        "mobile_short_code": "65730"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝慧美",
+        "mobile_short_code": "69363"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鍾秀敏",
+        "mobile_short_code": "69268"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鍾明枝",
+        "mobile_short_code": "69263"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鍾若麗",
+        "mobile_short_code": "69262"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鍾貴馨",
+        "mobile_short_code": "69152"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鍾興叡",
+        "mobile_short_code": "65940"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "韓賢明",
+        "mobile_short_code": "69415"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "韓儒",
+        "mobile_short_code": "69347"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "簡言軒",
+        "mobile_short_code": "69472"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "簡肇明",
+        "mobile_short_code": "61636"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "藍澄玉",
+        "mobile_short_code": "69134"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "顏汝娟",
+        "mobile_short_code": "69456"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "顏希如",
+        "mobile_short_code": "65117"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "顏簡美珠",
+        "mobile_short_code": "69465"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅一鳴",
+        "mobile_short_code": "69111"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅雨平",
+        "mobile_short_code": "69036"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅婌萓",
+        "mobile_short_code": "61405"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅淑文",
+        "mobile_short_code": "67604"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅惠玲",
+        "mobile_short_code": "69264"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅惠珍",
+        "mobile_short_code": "69888"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅麗鳳",
+        "mobile_short_code": "69178"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇于綺",
+        "mobile_short_code": "69271"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇千予",
+        "mobile_short_code": "69248"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇文仁",
+        "mobile_short_code": "69222"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇光宇",
+        "mobile_short_code": "69361"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇宇珊",
+        "mobile_short_code": "69302"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇玫帆",
+        "mobile_short_code": "69186"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇勁宇",
+        "mobile_short_code": "69447"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇姿安",
+        "mobile_short_code": "62017"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇思羽",
+        "mobile_short_code": "69002"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇峰毅",
+        "mobile_short_code": "69427"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇祐瑩",
+        "mobile_short_code": "61621"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇秦明",
+        "mobile_short_code": "69292"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇琬雯",
+        "mobile_short_code": "61428"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇慶豐",
+        "mobile_short_code": "69466"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鹽埔門診",
+        "mobile_short_code": "69273"
+    }
+]
