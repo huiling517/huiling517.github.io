@@ -5,20 +5,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>電話查詢系統</title>
     <style>
+        /* 確保背景填滿整個視窗 */
+        html, body {
+            height: 100%; /* 確保背景高度覆蓋整個視窗 */
+            margin: 0;
+            padding: 0;
+        }
+
         body {
             font-family: Arial, sans-serif;
             margin: 10px;
-            background-color: #f4f4f4;
             font-size: 18px;
+            background-image: url('517.jpg'); /* 替換為你的背景圖片路徑 */
+            background-size: cover;                /* 確保背景填滿頁面 */
+            background-repeat: no-repeat;          /* 禁止背景重複 */
+            background-position: center;           /* 背景置中 */
+            background-attachment: fixed;          /* 背景固定 */
         }
+
         .container {
             max-width: 600px;
-            margin: auto;
+            margin: 20px auto 0; /* 讓容器距離頂部 20px，置中對齊 */
             background-color: #fff;
             padding: 15px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
+
         h1 {
             text-align: center;
             color: #333;
@@ -26,11 +39,13 @@
             font-weight: bold;
             margin-bottom: 15px;
         }
+
         .search-container {
             display: flex;
             flex-direction: row;
             margin-bottom: 10px;
         }
+
         #searchInput {
             flex-grow: 1;
             padding: 12px;
@@ -39,6 +54,7 @@
             border-radius: 4px;
             box-sizing: border-box;
         }
+
         #searchButton {
             padding: 10px 15px;
             font-size: 16px;
@@ -49,15 +65,18 @@
             cursor: pointer;
             margin-left: 5px;
         }
+
         #searchButton:hover {
             background-color: #0056b3;
         }
+
         .input-note {
             font-size: 14px;
             color: #666;
             margin-bottom: 10px;
             margin-left: 5px;
         }
+
         .system-remark {
             font-size: 14px;
             color: #888;
@@ -66,11 +85,13 @@
             margin-bottom: -10px;
             padding: 5px;
         }
+
         #resultsTable {
             width: 100%;
             border-collapse: collapse;
             margin-top: 15px;
         }
+
         #resultsTable th, #resultsTable td {
             border: 1px solid #ddd;
             padding: 8px;
@@ -78,18 +99,22 @@
             word-break: break-word;
             font-size: 14px;
         }
+
         #resultsTable th {
             background-color: #f2f2f2;
             color: #333;
             font-size: 16px;
             font-weight: bold;
         }
+
         #resultsTable tr:nth-child(even) {
             background-color: #f9f9f9;
         }
+
         #resultsTable tr:hover {
             background-color: #e9e9e9;
         }
+
         .loading, .error, .no-results {
             text-align: center;
             color: #777;
@@ -97,10 +122,12 @@
             font-size: 16px;
             padding: 10px;
         }
+
         .error {
             color: red;
             font-weight: bold;
         }
+
         .no-results {
             color: #555;
         }
@@ -135,7 +162,6 @@
             <input type="text" id="searchInput" placeholder="輸入關鍵字 (姓名、單位或地點)" />
             <button id="searchButton">查詢</button>
         </div>
-        
         <p class="system-remark">此系統僅供方便查詢使用，不作即時更新連動</p>
         <div id="resultsContainer"></div>
     </div>
