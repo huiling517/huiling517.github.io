@@ -12,14 +12,23 @@
             padding: 0;
         }
 
+        /* 預設背景樣式 (電腦版背景) */
         body {
             font-family: Arial, sans-serif;
             font-size: 18px; /* 全局字體大小 */
-            background-image: url('517.jpg'); /* 替換為你的背景圖片路徑 */
+            background-image: url('517.jpg'); /* 電腦版背景圖片 */
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
             background-attachment: fixed;
+        }
+
+        /* 手機版背景樣式 */
+        @media (max-width: 768px) {
+            body {
+                background-image: url('518.jpg'); /* 手機版背景圖片 */
+                background-attachment: scroll; /* 手機版背景不固定 */
+            }
         }
 
         .container {
