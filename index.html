@@ -5,39 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>電話查詢系統</title>
     <style>
-        /* 確保背景填滿整個視窗 */
         html, body {
             height: 100%;
             margin: 0;
             padding: 0;
         }
 
-        /* 預設背景樣式 (電腦版背景) */
         body {
             font-family: Arial, sans-serif;
-            font-size: 18px; /* 全局字體大小 */
-            background-image: url('517.jpg'); /* 電腦版背景圖片 */
+            font-size: 18px;
+            background-image: url('517.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
             background-attachment: fixed;
         }
 
-        /* 手機版背景樣式 */
-        @media (max-width: 768px) {
-            body {
-                background-image: url('518.jpg'); /* 手機版背景圖片 */
-                background-attachment: scroll; /* 手機版背景不固定 */
-            }
-        }
-
         .container {
             max-width: 600px;
-            margin: 20px auto 0;
+            margin: 20px auto;
             background-color: #fff;
             padding: 15px;
-            border-radius: 8px; /* 保持圓角 */
-            box-shadow: 0 0 10px rgba(0,0,0,0.1); /* 添加陰影效果 */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
 
         h1 {
@@ -57,15 +47,15 @@
         #searchInput {
             flex-grow: 1;
             padding: 12px;
-            font-size: 18px; /* 調整輸入框字體大小 */
-            border: 1px solid #ccc; /* 灰色邊框 */
-            border-radius: 2px;
+            font-size: 18px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
             box-sizing: border-box;
         }
 
         #searchButton {
             padding: 10px 15px;
-            font-size: 18px; /* 調整按鈕字體大小 */
+            font-size: 18px;
             background-color: #007bff;
             color: white;
             border: none;
@@ -78,86 +68,36 @@
             background-color: #0056b3;
         }
 
-        .input-note {
-            font-size: 16px;
-            color: #666;
-            margin-bottom: 10px;
-            margin-left: 5px;
-        }
-
         .system-remark {
             font-size: 16px;
             color: #888;
-            text-align: center;
+            text-align: left; /* 設定靠左對齊 */
             margin-top: 15px;
             margin-bottom: -10px;
             padding: 5px;
         }
 
-        #resultsTable {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 15px;
-            border: 1px solid #ccc; /* 表格外框灰色細邊框 */
-        }
-
-        #resultsTable th, #resultsTable td {
-            border: 1px solid #ccc; /* 單元格灰色細邊框 */
-            padding: 10px; /* 增加單元格內邊距 */
-            text-align: left;
-            word-break: break-word;
-            font-size: 18px; /* 調整表格字體大小 */
-        }
-
-        #resultsTable th {
-            background-color: #f2f2f2;
-            color: #333;
-        }
-
-        #resultsTable tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-
-        #resultsTable tr:hover {
-            background-color: #e9e9e9;
-        }
-
-        .loading, .error, .no-results {
-            text-align: center;
-            color: #777;
-            margin-top: 20px;
-            font-size: 18px; /* 調整提示文字字體大小 */
-            padding: 10px;
-        }
-
-        .error {
-            color: red;
-            font-weight: bold;
-        }
-
-        .no-results {
-            color: #555;
-        }
-
-        /* 手機版樣式調整 */
         @media (max-width: 768px) {
+            .container {
+                margin: 10px; /* 修改手機版的邊界，讓容器與邊緣留距離 */
+                padding: 15px; /* 保持內部間距 */
+            }
+
             h1 {
                 font-size: 22px;
             }
+
             #searchInput {
-                padding: 10px;
-                font-size: 16px;
+                width: 100%; /* 確保輸入框寬度適應容器 */
             }
+
             #searchButton {
                 padding: 8px 12px;
                 font-size: 16px;
             }
-            .input-note, .system-remark {
+
+            .system-remark {
                 font-size: 14px;
-            }
-            #resultsTable th, #resultsTable td {
-                font-size: 16px;
-                padding: 8px;
             }
         }
     </style>
@@ -172,84 +112,5 @@
         <p class="system-remark">此系統僅供方便查詢使用，不作即時更新連動</p>
         <div id="resultsContainer"></div>
     </div>
-
-    <script>
-        const searchInput = document.getElementById('searchInput');
-        const searchButton = document.getElementById('searchButton');
-        const resultsContainerDiv = document.getElementById('resultsContainer');
-
-        // 載入資料
-        let data = [];
-        async function loadData() {
-            try {
-                const response = await fetch('data.json'); // 載入靜態 JSON 檔案
-                if (!response.ok) {
-                    throw new Error('無法載入資料');
-                }
-                data = await response.json();
-            } catch (error) {
-                console.error('載入資料時發生錯誤:', error);
-                resultsContainerDiv.innerHTML = `<p class="error">載入資料失敗: ${error.message}</p>`;
-            }
-        }
-
-        // 查詢資料
-        function performSearch() {
-            const query = searchInput.value.trim().toLowerCase();
-            resultsContainerDiv.innerHTML = '<p class="loading">查詢中...</p>'; // 顯示載入中提示
-
-            if (!query) {
-                resultsContainerDiv.innerHTML = '<p class="no-results">請輸入查詢關鍵字。</p>';
-                return;
-            }
-
-            const filteredResults = data.filter(person =>
-                (person.name && person.name.toLowerCase().includes(query)) ||
-                (person.department && person.department.toLowerCase().includes(query)) ||
-                (person.mobile_short_code && person.mobile_short_code.toLowerCase().includes(query)) ||
-                (person.extension && person.extension.toLowerCase().includes(query))
-            );
-
-            resultsContainerDiv.innerHTML = '';
-
-            if (filteredResults.length > 0) {
-                const table = document.createElement('table');
-                table.id = 'resultsTable';
-
-                const thead = table.createTHead();
-                const headerRow = thead.insertRow();
-                const headers = ['姓名', '單位', '手機簡碼', '分機'];
-                headers.forEach(headerText => {
-                    const th = document.createElement('th');
-                    th.textContent = headerText;
-                    headerRow.appendChild(th);
-                });
-
-                const tbody = table.createTBody();
-                filteredResults.forEach(person => {
-                    const row = tbody.insertRow();
-                    row.insertCell().textContent = person.name || '';
-                    row.insertCell().textContent = person.department || '';
-                    row.insertCell().textContent = person.mobile_short_code || '';
-                    row.insertCell().textContent = person.extension || '';
-                });
-
-                resultsContainerDiv.appendChild(table);
-            } else {
-                resultsContainerDiv.innerHTML = '<p class="no-results">查無相關資料。</p>';
-            }
-        }
-
-        searchButton.addEventListener('click', performSearch);
-        searchInput.addEventListener('keypress', function (event) {
-            if (event.key === 'Enter') {
-                event.preventDefault();
-                performSearch();
-            }
-        });
-
-        // 初始化載入資料
-        loadData();
-    </script>
 </body>
 </html>
