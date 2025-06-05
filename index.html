@@ -88,7 +88,7 @@
         .system-remark {
             font-size: 16px;
             color: #888;
-            text-align: left;
+            text-align: left; /* 改為靠左對齊 */
             margin-top: 15px;
             margin-bottom: -10px;
             padding: 5px;
@@ -141,20 +141,29 @@
 
         /* 手機版樣式調整 */
         @media (max-width: 768px) {
+            .container {
+                margin: 10px; /* 增加手機版的邊界 */
+                padding: 15px; /* 保持內部間距 */
+            }
+
             h1 {
                 font-size: 22px;
             }
+
             #searchInput {
                 padding: 10px;
                 font-size: 16px;
             }
+
             #searchButton {
                 padding: 8px 12px;
                 font-size: 16px;
             }
+
             .input-note, .system-remark {
                 font-size: 14px;
             }
+
             #resultsTable th, #resultsTable td {
                 font-size: 16px;
                 padding: 8px;
