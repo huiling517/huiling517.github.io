@@ -139,6 +139,13 @@
             color: #555;
         }
 
+        /* 限制「手機簡碼」欄位的寬度 */
+        #resultsTable td:nth-child(3),
+        #resultsTable th:nth-child(3) {
+            max-width: 80px; /* 限制為 5 個數字寬度 */
+            text-align: center; /* 文字置中 */
+        }
+
         /* 手機版樣式調整 */
         @media (max-width: 768px) {
             .container {
