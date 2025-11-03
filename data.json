@@ -1,0 +1,8342 @@
+[
+    {
+        "department": "B2教學室",
+        "extension": "1011",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫業室辦公室/夜間組長",
+        "extension": "1100",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "控床中心",
+        "extension": "1103",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫業組長",
+        "extension": "1105",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "初診服務站",
+        "extension": "1106",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "藥品諮詢",
+        "extension": "1110",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "住院中心",
+        "extension": "1116",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "藥劑科會議室",
+        "extension": "1117",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "轉診中心",
+        "extension": "1120",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "排檢中心",
+        "extension": "1123",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "健康櫥窗-營養品",
+        "extension": "1125",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "健康櫥窗-敷料",
+        "extension": "1126",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "防疫門診",
+        "extension": "1183",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "神經外科201",
+        "extension": "1201",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "內科二診（神內）202",
+        "extension": "1202",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "內科三診（神內）203",
+        "extension": "1203",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "感染科205",
+        "extension": "1205",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "內科六診（血液腫瘤）206",
+        "extension": "1206",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "內科七診（腸胃）207",
+        "extension": "1207",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "內科八診（腸胃）208",
+        "extension": "1208",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "兒科前室",
+        "extension": "1210",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "兒科一診210",
+        "extension": "1211",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "兒科二診211",
+        "extension": "1212",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "兒科三診212",
+        "extension": "1213",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "兒科四診213(兒科心超)",
+        "extension": "1214",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "頸部超音波室",
+        "extension": "1215",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "內科健康諮詢",
+        "extension": "1222",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "整型外科317",
+        "extension": "1301",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "外科換藥間318",
+        "extension": "1302",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "外科三診319",
+        "extension": "1303",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "小兒外科門診320",
+        "extension": "1304",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "骨科超音波室",
+        "extension": "1305",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "婦產科高層次超音波室",
+        "extension": "1306",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "婦產科前室",
+        "extension": "1310",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "婦產科一診301",
+        "extension": "1311",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "婦產科二診302",
+        "extension": "1312",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "婦產科三診303",
+        "extension": "1313",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "婦產科衛教室",
+        "extension": "1324",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "教學門診",
+        "extension": "1325",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "身心內科308",
+        "extension": "1326",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "骨科二診311",
+        "extension": "1331",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "骨科一診313",
+        "extension": "1332",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "骨科石膏室",
+        "extension": "1334",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "聽力檢查治療室",
+        "extension": "1336",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "耳鼻喉科門診310",
+        "extension": "1337",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "病歷輸送間",
+        "extension": "1341",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科第二抽血站",
+        "extension": "1403",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科螢光室",
+        "extension": "1413",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科主任",
+        "extension": "1414",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科副主任",
+        "extension": "1417",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科組長",
+        "extension": "1422",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科分生室",
+        "extension": "1423",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科庫房",
+        "extension": "1424",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科污物室",
+        "extension": "1427",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "風濕免疫科(401診)",
+        "extension": "1431",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "腎臟科一診(402診)",
+        "extension": "1432",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "腎臟科二診(403診)",
+        "extension": "1433",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "新陳代謝科(405診)",
+        "extension": "1435",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "四樓血壓站",
+        "extension": "1444",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "心電圖室",
+        "extension": "1501",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "肺功能室",
+        "extension": "1503",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "運動心電圖室",
+        "extension": "1504",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "肌電圖室",
+        "extension": "1505",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "腦波室",
+        "extension": "1506",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "支氣管鏡室",
+        "extension": "1509",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "家醫科二診515",
+        "extension": "1513",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "胸腔內科一診517",
+        "extension": "1514",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "家醫科一診514",
+        "extension": "1515",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "第二心超室",
+        "extension": "1518",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "心臟科醫師研究室",
+        "extension": "1519",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "心臟衛教室",
+        "extension": "1520",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢查等候室(胃鏡)",
+        "extension": "1521",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "第一心超室",
+        "extension": "1523",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "胸腔內科二診516",
+        "extension": "1524",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢查室休息室",
+        "extension": "1531",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "心臟外科519",
+        "extension": "1541",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "心臟內科518",
+        "extension": "1542",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "五樓血壓站",
+        "extension": "1543",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "胸腔衛教室",
+        "extension": "1556",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "院長室發展組",
+        "extension": "1603",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "院長室會議室",
+        "extension": "1611",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "院長室發展組",
+        "extension": "1615",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "一洗護理長辦公室",
+        "extension": "1624",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "一洗討論室",
+        "extension": "1625",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "董事會秘書蔡珮容",
+        "extension": "1651",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "董事會高專張隆鐘",
+        "extension": "1654",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "資訊室主任辦公室",
+        "extension": "1730",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "藥庫",
+        "extension": "2015",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "安寧共照",
+        "extension": "2033",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "2035",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "心理測驗室",
+        "extension": "2111",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "心理咨商師(成人)",
+        "extension": "2111",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "CDR心智評估室",
+        "extension": "2112",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "ICF身心障礙鑑定室",
+        "extension": "2113",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "多功能全方位復健室",
+        "extension": "2120",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "營養諮詢室",
+        "extension": "2133",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "統一超商(7~11)",
+        "extension": "2136",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "復健科診間215",
+        "extension": "2232",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "主治醫師辦公室",
+        "extension": "2235",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "會議室",
+        "extension": "2236",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "主任辦公室",
+        "extension": "2238",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "失智共同照護中心",
+        "extension": "2252",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "失智社區服務據點",
+        "extension": "2255",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "門診護理長辦公室",
+        "extension": "2311",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "整形外科及疼痛科322",
+        "extension": "2312",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "得力小站(骨鬆衛教)",
+        "extension": "2323",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "中醫櫃檯",
+        "extension": "2330",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "申訴專線",
+        "extension": "2333",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "臨床技能中心",
+        "extension": "2410",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "泌尿二診522",
+        "extension": "2520",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "膀胱鏡、超音波室",
+        "extension": "2522",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "尿路動力室",
+        "extension": "2523",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "泌尿一診521",
+        "extension": "2525",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "泌尿中心主任",
+        "extension": "2526",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "523診間",
+        "extension": "2530",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "山巡門診候診區",
+        "extension": "2531",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "高壓氧室",
+        "extension": "2532",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "減重治療室",
+        "extension": "2533",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫師值班室:內科SA",
+        "extension": "2540",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫師值班室:內科SB",
+        "extension": "2541",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫師值班室:外科總值",
+        "extension": "2542",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫師值班室:外科:女",
+        "extension": "2543",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "乳外中心治療室",
+        "extension": "2650",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "乳外中心601診",
+        "extension": "2651",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "乳外中心602診",
+        "extension": "2652",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "乳外中心乳超室",
+        "extension": "2653",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "職能復健室",
+        "extension": "2720",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "體外震波治療室",
+        "extension": "2721",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "中醫煎藥室",
+        "extension": "2722",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "電磁脈衝治療室",
+        "extension": "2723",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "環衛辦公室",
+        "extension": "3021",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "中控室",
+        "extension": "3031",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "B1 UPS",
+        "extension": "3089",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "B2 UPS",
+        "extension": "3099",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "滕醫師辦公室",
+        "extension": "3110",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "施醫師辦公室",
+        "extension": "3111",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "報告室",
+        "extension": "3112",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "乳篩衛教",
+        "extension": "3113",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "CT室",
+        "extension": "3114",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "第一、二攝影室",
+        "extension": "3115",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "放射科櫃檯",
+        "extension": "3116",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "第三、五攝影室",
+        "extension": "3117",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "江組長辦公室",
+        "extension": "3118",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "會議室",
+        "extension": "3232",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "書記",
+        "extension": "3233",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "3234",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "經顱磁刺激治療(rTMS)",
+        "extension": "3235",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "外加醫師辦公室",
+        "extension": "3310",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "3313",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "3412",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "NICU值班室",
+        "extension": "3413",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "NICU討論室",
+        "extension": "3414",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "RT辦公室",
+        "extension": "3418",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "2~2洗腎中心",
+        "extension": "3420",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "PICU護理站",
+        "extension": "3421",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "5C討論室",
+        "extension": "3532",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "5C書記",
+        "extension": "3533",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "5C護理長辦公室",
+        "extension": "3534",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "NP值班室",
+        "extension": "3536",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "6C書記",
+        "extension": "3633",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "6C護理長辦公室",
+        "extension": "3634",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "滅菌鍋爐室",
+        "extension": "4002",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "地下一樓停車場",
+        "extension": "4021",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "維康便利商店",
+        "extension": "4126",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "書記",
+        "extension": "4220",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "4223",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "會議/研討室",
+        "extension": "4224",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "家屬休息室",
+        "extension": "4301",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "MI討論室",
+        "extension": "4310",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "MI~A區值班室",
+        "extension": "4313",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "MI護理長辦公室",
+        "extension": "4315",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "MI~B區值班室",
+        "extension": "4320",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "內科醫師值班室",
+        "extension": "4320",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "4B護理長辦公室",
+        "extension": "4422",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "4B討論室",
+        "extension": "4423",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "儲藏室",
+        "extension": "4424",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "4B書記",
+        "extension": "4425",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "452值班室A",
+        "extension": "4451",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "452值班室B",
+        "extension": "4452",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "禱告室",
+        "extension": "4500",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "4522",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "討論室",
+        "extension": "4523",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "儲藏室",
+        "extension": "4524",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "病房心超室",
+        "extension": "4525",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "集會堂(報到處)",
+        "extension": "4612",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "貴賓室",
+        "extension": "4612",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "集會堂音控室",
+        "extension": "4613",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "簡報室(大)",
+        "extension": "4617",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "藥劑科主任",
+        "extension": "5010",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診會議室",
+        "extension": "5018",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診護理長辦公室",
+        "extension": "5019",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "環保組",
+        "extension": "5020",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "X光周醫師辦公室",
+        "extension": "5115",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診X光室",
+        "extension": "5116",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診社工會議",
+        "extension": "5122",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "警衛室",
+        "extension": "5140",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "出院中心",
+        "extension": "5150",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診批價櫃檯",
+        "extension": "5151",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診醫業組長",
+        "extension": "5152",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫師辦公室",
+        "extension": "5214",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "1~3洗腎中心",
+        "extension": "5222",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "供應室",
+        "extension": "5227",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "商保咨詢室",
+        "extension": "5240",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "手術恢復室",
+        "extension": "5315",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "嬰兒室護理長",
+        "extension": "5412",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "DR護理長",
+        "extension": "5423",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "產房麻醉室",
+        "extension": "5428",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "SBR護理長",
+        "extension": "5432",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "書記",
+        "extension": "5533",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "5534",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "討論室",
+        "extension": "5535",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "環衛休息室",
+        "extension": "5536",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "慈惠照護中心",
+        "extension": "5537",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "6A~A區",
+        "extension": "5602",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "6A~B區",
+        "extension": "5629",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "書記",
+        "extension": "5633",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "韓偉會議室",
+        "extension": "5637",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "危機處理小組",
+        "extension": "5858",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "批價掛號櫃檯",
+        "extension": "1101~02、1104~05",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "門診注射室",
+        "extension": "1107~1108",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "門診藥局",
+        "extension": "1110~13、1117",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "服務台",
+        "extension": "1114~15",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "內科四診（高齡醫學）204",
+        "extension": "1204、1216",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "病歷輸送間",
+        "extension": "1225~26",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "疾管組",
+        "extension": "1230~35",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科生化室",
+        "extension": "1401~02",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科微生物室",
+        "extension": "1404~06",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科血庫",
+        "extension": "1407~08",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科血液室",
+        "extension": "1409~10",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科血清室",
+        "extension": "1411~12",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科會議室",
+        "extension": "1415~16",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科鏡檢室",
+        "extension": "1418~19",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "檢驗科第一抽血站",
+        "extension": "1420~21",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "內視鏡室",
+        "extension": "1507~08",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "超音波室",
+        "extension": "1512、1522",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "眼科門診",
+        "extension": "1516~17",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "第一洗腎中心",
+        "extension": "1621~23",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "院長室",
+        "extension": "1650~56",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫務、內外科辦公室",
+        "extension": "1701~05",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "資訊室軟體組",
+        "extension": "1731#11~22",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "資訊室研發組",
+        "extension": "1731#24~30",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "事務組",
+        "extension": "2006~09",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "感控室",
+        "extension": "2010~12",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "工務室",
+        "extension": "2020~30",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "疾管衛教室",
+        "extension": "2031~32",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "出院服務",
+        "extension": "2035、2038~39",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "2038~39",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "身心科辦公室",
+        "extension": "2113~14",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "癌症資源中心",
+        "extension": "2125~26",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "健康管理中心",
+        "extension": "2130~32",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "語言治療室",
+        "extension": "2230、2234",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "小兒物理、職能治療室",
+        "extension": "2231、2239",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "語言治療室",
+        "extension": "2233、2237",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "資訊室網路硬體組",
+        "extension": "2325、2327",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "資訊室網路硬體組",
+        "extension": "2328、2340",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "中醫門診908",
+        "extension": "2331~2332",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "門診辦公室",
+        "extension": "2337~38",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "社工室",
+        "extension": "2415~18",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "圖書館",
+        "extension": "2420~21",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "教研部",
+        "extension": "2425~28",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "碎石室",
+        "extension": "2521、2524",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "病理科",
+        "extension": "2600~04",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "高層辦公室",
+        "extension": "2751~59",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "資材組",
+        "extension": "3010~13",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "2C護理站",
+        "extension": "3230~31",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "CVS護理站",
+        "extension": "3311~12、3314",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "SICU護理站",
+        "extension": "3317~18",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "書記",
+        "extension": "3320~21",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "NICU護理站",
+        "extension": "3410~11",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "5C護理站",
+        "extension": "3530~31",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "6C護理站",
+        "extension": "3630~32",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "NP辦公室",
+        "extension": "3635~36",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "機房",
+        "extension": "4089、4099",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫勤辦公室",
+        "extension": "4101~03",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "2~1洗腎中心",
+        "extension": "4110~12",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "兒科護理站",
+        "extension": "4221~22",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "值班室",
+        "extension": "4226~28、5413",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "MI~A區護理站",
+        "extension": "4311~12、14",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "MI~B區護理站",
+        "extension": "4317~19",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "生殖醫學中心",
+        "extension": "4331~32",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "4B婦產科護理站",
+        "extension": "4420~21",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "坐月子中心咨詢",
+        "extension": "4420~21",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "骨科護理站",
+        "extension": "4520~21",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "UD藥局",
+        "extension": "5011~13",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "腹膜透析室",
+        "extension": "5021~22",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "核醫科",
+        "extension": "5025~5026",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "磁振造影室",
+        "extension": "5027~5028",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診O1~O10床",
+        "extension": "5110、5112",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診室",
+        "extension": "5110~19",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診E1~E20床",
+        "extension": "5123、5124",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診O11~O20床",
+        "extension": "5125、5126",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "戶外門診",
+        "extension": "5145~47",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診藥局",
+        "extension": "5160~61",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "1~4洗腎中心",
+        "extension": "5211~12",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "復健科心理師辦公室",
+        "extension": "5218~19、5238~39",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "1~2洗腎中心",
+        "extension": "5220~21",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "牙科門診",
+        "extension": "5233~34",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "麻醉科",
+        "extension": "5310、5316",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "手術室",
+        "extension": "5311~14、17",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "心導管室",
+        "extension": "5330~31",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "嬰兒室",
+        "extension": "5410~11",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "婦產科辦公室",
+        "extension": "5419、5427",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "待產室（DR）",
+        "extension": "5420~22",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "產房醫師值班室",
+        "extension": "5424、5429",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "生產房",
+        "extension": "5425~26",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "SBR",
+        "extension": "5430~31",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "T.C.中心",
+        "extension": "5434~35",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "婦科全方位",
+        "extension": "5440~42",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "5A護理站",
+        "extension": "5530~32",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "6A護理站",
+        "extension": "5631、5633~35、5637",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "討論室",
+        "extension": "5634~35",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "瑞光租賃大樓5F會議室",
+        "extension": "3944",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "定位室",
+        "extension": "5700",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "711診間",
+        "extension": "5701",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "712診間",
+        "extension": "5702",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "會議室",
+        "extension": "5703",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "放腫物理室",
+        "extension": "5704",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "防疫門診",
+        "extension": "5711",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "3D護理站",
+        "extension": "5730",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "書記辦公室",
+        "extension": "5731",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "治療室",
+        "extension": "5732",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "會議室",
+        "extension": "5733",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "準備室",
+        "extension": "5734",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "化療調配室",
+        "extension": "5743",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "人資會議室",
+        "extension": "5763",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "員工運動中心",
+        "extension": "5798",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "運輸組休息室",
+        "extension": "5900",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "裁縫間",
+        "extension": "5949",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "院牧會議室",
+        "extension": "5956",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "病歷行政區5962",
+        "extension": "5962",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "病歷量審區5963",
+        "extension": "5963",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "長照院區一樓",
+        "extension": "7108",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "長照院區三樓",
+        "extension": "7302",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "長照院區五樓",
+        "extension": "7503",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "警衛室",
+        "extension": "81111",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "復健批價掛號櫃枱",
+        "extension": "81112",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "復健科門診",
+        "extension": "81116",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "復健電療室",
+        "extension": "81118",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "人工掛號",
+        "extension": "81123",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "員工人工掛號",
+        "extension": "81123",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "體檢室",
+        "extension": "81203",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "會議室",
+        "extension": "81206",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "安寧居家護理師",
+        "extension": "81702",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫助辦公室",
+        "extension": "81705",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫師辦公室",
+        "extension": "81706",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "醫師值班室",
+        "extension": "81710",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "護理長辦公室",
+        "extension": "81712",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "永大資源中心",
+        "extension": "7536866",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "三地門長照中心",
+        "extension": "7995139",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "保險組",
+        "extension": "3960~61、3964、3966~73",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "職安室",
+        "extension": "3975、3977~78",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "放腫櫃台",
+        "extension": "5705~06",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "健檢櫃台",
+        "extension": "5720~25#10~12",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "第一檢查室",
+        "extension": "5720~25#25",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "健檢診間",
+        "extension": "5720~25#27",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "腹超室",
+        "extension": "5720~25#28",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "心超室",
+        "extension": "5720~25#29",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "麻醉準備及恢復室",
+        "extension": "5720~25#30",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "第二檢查室",
+        "extension": "5720~25#31",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "肺功能室",
+        "extension": "5720~25#32",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "第三檢查室",
+        "extension": "5720~25#33",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "麻醉評估室",
+        "extension": "5720~25#34",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "心電圖室",
+        "extension": "5720~25#35",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "內視鏡檢查室",
+        "extension": "5720~25#36",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "化療室",
+        "extension": "5741~42",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "培元門診",
+        "extension": "5746~48",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "人資室",
+        "extension": "5750、5753~56、5758~62",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "院牧部",
+        "extension": "5940~44、5957~58、5939",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "急診辦公室",
+        "extension": "5945~47",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "營養室",
+        "extension": "5950~52",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "營養室灌食廚房",
+        "extension": "5954(1F)",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "社醫部7~11專案",
+        "extension": "5961~62",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "病歷室值班5964~65",
+        "extension": "5964~65",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "護理部",
+        "extension": "5980~86",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "長照院區四樓",
+        "extension": "7415~16",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "長照院區五樓",
+        "extension": "7501~02",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "長照院區六樓",
+        "extension": "7601~02",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "長照院區七樓",
+        "extension": "7710~11",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "長照院區八樓",
+        "extension": "7810~11",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "長照院區一樓",
+        "extension": "7931~34",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "長照院區一樓",
+        "extension": "7951~52",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "居家護理",
+        "extension": "7951~54",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "護理站",
+        "extension": "7980~81",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "辦公室",
+        "extension": "7983~84",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "復健治療室",
+        "extension": "81114~115",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "RT護理站",
+        "extension": "81330~331",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "RT護理站",
+        "extension": "81430~431",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "安寧病房",
+        "extension": "81530~531",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "安寧病房",
+        "extension": "81630~631",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "資訊室",
+        "extension": "81708~709、711",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "三地門共融生活中心",
+        "extension": "08-7993789",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "三地門共融生活中心",
+        "extension": "08-7993199",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "工藝工房",
+        "extension": "1810-1811",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "五感教室(五)",
+        "extension": "1835",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "五感教室(六)",
+        "extension": "1836",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "支援(資源)中心",
+        "extension": "1817",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "日照中心",
+        "extension": "1812-1813",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "失智據點",
+        "extension": "1815",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "失智據點",
+        "extension": "1816",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "交誼廳",
+        "extension": "1834",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "多功能會議室",
+        "extension": "1837",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "長照A點",
+        "extension": "1825",
+        "name": "童若庭",
+        "公務機": ""
+    },
+    {
+        "department": "長照A點",
+        "extension": "1826",
+        "name": "林鳳珍",
+        "公務機": ""
+    },
+    {
+        "department": "長照A點",
+        "extension": "1827",
+        "name": "蔡素梅",
+        "公務機": ""
+    },
+    {
+        "department": "經理辦公室",
+        "extension": "1830",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1821",
+        "name": "孔緹縈",
+        "公務機": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1822",
+        "name": "邱裕權",
+        "公務機": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1822",
+        "name": "劉開平",
+        "公務機": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1822",
+        "name": "謝少奇",
+        "公務機": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1823",
+        "name": "孫志豪",
+        "公務機": ""
+    },
+    {
+        "department": "機能中心",
+        "extension": "1824",
+        "name": "運動區",
+        "公務機": ""
+    },
+    {
+        "department": "三地門共融生活中心",
+        "extension": "08-7995319",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1831",
+        "name": "林明龍",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1832",
+        "name": "宋嘉萍",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "萬樹人",
+        "公務機": "60315"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李宜學",
+        "公務機": "60506"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡瑋玲",
+        "公務機": "61105"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "高承志",
+        "公務機": "61120"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳芬英",
+        "公務機": "61125"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃雅芳",
+        "公務機": "61414"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王麗雅",
+        "公務機": "61416"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "幸良蘭",
+        "公務機": "61417"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇琬雯",
+        "公務機": "61428"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭嘉玲",
+        "公務機": "61429"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳侖瑾",
+        "公務機": "61603"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇祐瑩",
+        "公務機": "61621"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "至ICU專用",
+        "公務機": "61622"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班",
+        "公務機": "61623"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "田家榮",
+        "公務機": "61624"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳榮州",
+        "公務機": "61631"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "趙欣欣",
+        "公務機": "61633"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "卓德松",
+        "公務機": "61634"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡珮容",
+        "公務機": "61651"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張正鴻",
+        "公務機": "61653"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許慧莉",
+        "公務機": "61658"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾士香",
+        "公務機": "61701"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳瑞敏",
+        "公務機": "61710"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "盧靜慧",
+        "公務機": "61712"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "涂愛霞",
+        "公務機": "61730"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳哲維",
+        "公務機": "62006"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "杜寒梅",
+        "公務機": "62008"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周惠強",
+        "公務機": "62009"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周心寧",
+        "公務機": "62011"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉秀伶",
+        "公務機": "62012"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇姿安",
+        "公務機": "62017"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賈淙翔",
+        "公務機": "62018"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳國仁",
+        "公務機": "62019"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "工務值班",
+        "公務機": "62021"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李志成",
+        "公務機": "62022"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "唐朝生",
+        "公務機": "62023"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃逸羣",
+        "公務機": "62024"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡哲民",
+        "公務機": "62025"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曹宏益",
+        "公務機": "62026"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林琨璿",
+        "公務機": "62027"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林憲璋",
+        "公務機": "62028"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳清濱",
+        "公務機": "62029"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張余師冠",
+        "公務機": "62030"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李詩玉",
+        "公務機": "62032"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "SR",
+        "公務機": "62111"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃靖雯",
+        "公務機": "62112"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡哲民",
+        "公務機": "62320"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳俊達",
+        "公務機": "62325"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃彥証",
+        "公務機": "62326"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭欣翰",
+        "公務機": "62327"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃家焜",
+        "公務機": "62328"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "薛玉皓",
+        "公務機": "62337"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳玉霞",
+        "公務機": "62338"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭志豪",
+        "公務機": "62340"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "葉秀芳",
+        "公務機": "62414"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班社工",
+        "公務機": "62416"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝時鵬",
+        "公務機": "62600"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "徐簡訊",
+        "公務機": "62601"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉曉恩",
+        "公務機": "62613"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳佳蓉",
+        "公務機": "63010"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "信實-副理-朱敬理",
+        "公務機": "63021"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "江玫君",
+        "公務機": "63118"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廖秀珠",
+        "公務機": "63235"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡佳紜",
+        "公務機": "63412"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "2C、3D",
+        "公務機": "63418"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭維真",
+        "公務機": "63419"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林妙枝",
+        "公務機": "63530"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林妮妮",
+        "公務機": "64110"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林維聰",
+        "公務機": "64111"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班",
+        "公務機": "64112"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張雅萍",
+        "公務機": "64224"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李春綢",
+        "公務機": "64311"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱怡凡",
+        "公務機": "64312"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳榆蓉",
+        "公務機": "64318"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李淑蓉",
+        "公務機": "64331"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱文信",
+        "公務機": "65019"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱文信",
+        "公務機": "65019"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "單位公用",
+        "公務機": "65021"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "單位公用",
+        "公務機": "65112"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "顏希如",
+        "公務機": "65117"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳秋敏",
+        "公務機": "65218"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王國揚",
+        "公務機": "65310"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "莊詩蘋",
+        "公務機": "65311"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "外科助手值班專用",
+        "公務機": "65312"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊梅絹",
+        "公務機": "65313"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "信實-組長-葉鳳凰",
+        "公務機": "65536"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳金菊",
+        "公務機": "65630"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝綿",
+        "公務機": "65730"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許惠珍",
+        "公務機": "65939"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鍾興叡",
+        "公務機": "65940"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "温玉楨",
+        "公務機": "65942"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "何啟元",
+        "公務機": "65944"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "營養室單位公用",
+        "公務機": "65950"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廚房公用",
+        "公務機": "65953"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘淑玲",
+        "公務機": "65957"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃雅琪",
+        "公務機": "65958"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "信實-主任-程一惠",
+        "公務機": "66786"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "院外醫療活動",
+        "公務機": "67269"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林淑娟",
+        "公務機": "67311"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林可麗",
+        "公務機": "67504"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅淑文",
+        "公務機": "67604"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許博翔",
+        "公務機": "67829"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許榮文",
+        "公務機": "67900"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱芬娟",
+        "公務機": "67906"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉淑梅",
+        "公務機": "67910"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李慧玲",
+        "公務機": "67920"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "杜瓊玲",
+        "公務機": "67951"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王寶賢",
+        "公務機": "67982"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林連豐",
+        "公務機": "69000"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇思羽",
+        "公務機": "69002"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李明杰",
+        "公務機": "69003"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱仁治",
+        "公務機": "69004"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉慧玲",
+        "公務機": "69005"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郝繼隆",
+        "公務機": "69006"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張雲德",
+        "公務機": "69007"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "支援醫師",
+        "公務機": "69009"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蕭善良",
+        "公務機": "69010"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林楚樵",
+        "公務機": "69011"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭純彣",
+        "公務機": "69012"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "瑞光RCW單位公用",
+        "公務機": "69013"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張雅雯",
+        "公務機": "69014"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝晉文",
+        "公務機": "69015"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪哲洲",
+        "公務機": "69016"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "徐禮平",
+        "公務機": "69017"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "胡皓桓",
+        "公務機": "69018"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "彭裴恩",
+        "公務機": "69019"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "莊岳泉",
+        "公務機": "69020"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭志榮",
+        "公務機": "69021"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "阮盛豪",
+        "公務機": "69022"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "詹益群",
+        "公務機": "69023"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林靜宜",
+        "公務機": "69024"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林靜宜",
+        "公務機": "69024"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馬玉馨",
+        "公務機": "69025"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林群峰",
+        "公務機": "69026"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許心慧",
+        "公務機": "69027"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廖翊馨",
+        "公務機": "69028"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳忠鴻",
+        "公務機": "69029"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "單玉安",
+        "公務機": "69030"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪玉瑩",
+        "公務機": "69031"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林忠",
+        "公務機": "69032"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾文盛",
+        "公務機": "69033"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張玉立",
+        "公務機": "69034"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳亮仁",
+        "公務機": "69035"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅雨平",
+        "公務機": "69036"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李志文",
+        "公務機": "69037"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "高肇隆",
+        "公務機": "69038"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "PGY",
+        "公務機": "69039"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "傅雪美",
+        "公務機": "69040"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃聖榮",
+        "公務機": "69041"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝偉倫",
+        "公務機": "69042"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張詠晴",
+        "公務機": "69043"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張博宜",
+        "公務機": "69044"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林美芳",
+        "公務機": "69045"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李昱瑩",
+        "公務機": "69046"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊淑玲",
+        "公務機": "69047"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉懿徵",
+        "公務機": "69049"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "秦有育",
+        "公務機": "69050"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃瓊瑤",
+        "公務機": "69051"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃富槻",
+        "公務機": "69052"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃漢傑",
+        "公務機": "69053"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林采鏡",
+        "公務機": "69055"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭嘉方",
+        "公務機": "69056"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "連富川",
+        "公務機": "69057"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳昶宏",
+        "公務機": "69058"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "瑞光安寧病房單位公用",
+        "公務機": "69059"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉德森",
+        "公務機": "69060"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "姜苾淩",
+        "公務機": "69061"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳蘭香",
+        "公務機": "69062"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "徐以樂",
+        "公務機": "69063"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張玫惠",
+        "公務機": "69066"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林佳蓉",
+        "公務機": "69069"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "胡詩偉",
+        "公務機": "69070"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李靜枝",
+        "公務機": "69071"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鍾華榮",
+        "公務機": "69072"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "PGY",
+        "公務機": "69073"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪慶憲",
+        "公務機": "69074"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林樹芬",
+        "公務機": "69076"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "急診警衛",
+        "公務機": "69077"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李宗龍",
+        "公務機": "69078"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許淑媛",
+        "公務機": "69079"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "董明正",
+        "公務機": "69080"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蕭崇聖",
+        "公務機": "69081"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳柏怡",
+        "公務機": "69084"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳柏怡",
+        "公務機": "69084"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡蕙憶",
+        "公務機": "69085"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉思源",
+        "公務機": "69086"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "涂嘉明",
+        "公務機": "69088"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李心白",
+        "公務機": "69090"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林松俊",
+        "公務機": "69091"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳志如",
+        "公務機": "69092"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "趙廷正",
+        "公務機": "69094"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王惠君",
+        "公務機": "69097"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林沼明",
+        "公務機": "69098"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王重元",
+        "公務機": "69100"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳毓仁",
+        "公務機": "69101"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李佩容",
+        "公務機": "69103"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李楷群",
+        "公務機": "69104"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭伊伶",
+        "公務機": "69105"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅咨涵",
+        "公務機": "69106"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林學民",
+        "公務機": "69107"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳懷民",
+        "公務機": "69109"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅一鳴",
+        "公務機": "69111"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林雅萍",
+        "公務機": "69112"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳美錚",
+        "公務機": "69113"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄒復",
+        "公務機": "69114"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馬事佐",
+        "公務機": "69115"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "莊玉美",
+        "公務機": "69116"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳泓賓",
+        "公務機": "69117"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳志文",
+        "公務機": "69120"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吉祥",
+        "公務機": "69122"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳靜茹",
+        "公務機": "69123"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘秀珍",
+        "公務機": "69124"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李紹銘",
+        "公務機": "69125"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李冠諺",
+        "公務機": "69126"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭慕儀",
+        "公務機": "69127"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡朝義",
+        "公務機": "69128"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李青樺",
+        "公務機": "69129"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林舜原",
+        "公務機": "69130"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉士傑",
+        "公務機": "69131"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱怡萍",
+        "公務機": "69132"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廖淑蓮",
+        "公務機": "69133"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "藍澄玉",
+        "公務機": "69134"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林偉婷",
+        "公務機": "69136"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "何美羚",
+        "公務機": "69137"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張瓊文",
+        "公務機": "69138"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡嘉展",
+        "公務機": "69139"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林鳳珍",
+        "公務機": "69140"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳秋榮",
+        "公務機": "69141"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "范立冀",
+        "公務機": "69142"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "詹玉琴",
+        "公務機": "69143"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃靜梅",
+        "公務機": "69144"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳明容",
+        "公務機": "69145"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李彥羲",
+        "公務機": "69146"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳郁婷",
+        "公務機": "69148"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃文慈",
+        "公務機": "69149"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡欣妤",
+        "公務機": "69150"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許家祥",
+        "公務機": "69151"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鍾貴馨",
+        "公務機": "69152"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林紘丞",
+        "公務機": "69153"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳志豪",
+        "公務機": "69155"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉至翰",
+        "公務機": "69156"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃勁夫",
+        "公務機": "69157"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳瑩純",
+        "公務機": "69158"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "徐仲彥",
+        "公務機": "69159"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉振聲",
+        "公務機": "69160"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李欲禎",
+        "公務機": "69161"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳怡慧",
+        "公務機": "69162"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李淑媛",
+        "公務機": "69163"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "朱淑媛",
+        "公務機": "69165"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "江慈馨",
+        "公務機": "69166"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳建銘",
+        "公務機": "69167"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡宛紜",
+        "公務機": "69168"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許秀華",
+        "公務機": "69169"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "杜傳榮",
+        "公務機": "69170"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃勇誠",
+        "公務機": "69171"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "詹淑如",
+        "公務機": "69172"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林于婷",
+        "公務機": "69173"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭子龍",
+        "公務機": "69175"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳慧娟",
+        "公務機": "69176"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳柏均",
+        "公務機": "69177"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅麗鳳",
+        "公務機": "69178"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周義",
+        "公務機": "69179"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周俊雄",
+        "公務機": "69180"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "施丞貴",
+        "公務機": "69181"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "滕文豹",
+        "公務機": "69182"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "放射科值班",
+        "公務機": "69183"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "急診X光值班",
+        "公務機": "69184"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "停佑恩",
+        "公務機": "69185"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇玫帆",
+        "公務機": "69186"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾和惠",
+        "公務機": "69187"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃筱婷",
+        "公務機": "69189"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳慧娟",
+        "公務機": "69190"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林姿瑜",
+        "公務機": "69191"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "門診庶務",
+        "公務機": "69192"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李忠成",
+        "公務機": "69193"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李兆程",
+        "公務機": "69194"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "梁修豪",
+        "公務機": "69196"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賴炳彰",
+        "公務機": "69197"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李知訓",
+        "公務機": "69198"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王家欽",
+        "公務機": "69199"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "何春梅",
+        "公務機": "69200"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾瑞慧",
+        "公務機": "69201"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "康家琦",
+        "公務機": "69202"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭文嘉",
+        "公務機": "69203"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳雅卿",
+        "公務機": "69204"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "呼吸治療組-內科",
+        "公務機": "69205"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李日馳",
+        "公務機": "69206"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃經洲",
+        "公務機": "69207"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "呼吸治療組-外科",
+        "公務機": "69208"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃澄妍",
+        "公務機": "69209"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許純華",
+        "公務機": "69210"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭淑萍",
+        "公務機": "69211"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李正涼",
+        "公務機": "69212"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馮宥訢",
+        "公務機": "69213"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "孫宗慧",
+        "公務機": "69214"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳淑娟",
+        "公務機": "69215"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廖淑英",
+        "公務機": "69216"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "",
+        "公務機": "69217"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳奕森",
+        "公務機": "69217"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊麗蘭",
+        "公務機": "69219"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "",
+        "公務機": "69220"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "宋嘉萍",
+        "公務機": "69221"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇文仁",
+        "公務機": "69222"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蕭任妏",
+        "公務機": "69223"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊麗秋",
+        "公務機": "69224"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "檢查室值班",
+        "公務機": "69225"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳芳蕎",
+        "公務機": "69226"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "杜中庸",
+        "公務機": "69228"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱雅琴",
+        "公務機": "69229"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱嘉寶",
+        "公務機": "69230"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃偉春",
+        "公務機": "69233"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉筱娟",
+        "公務機": "69234"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳素華",
+        "公務機": "69236"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "田蕙雯",
+        "公務機": "69237"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳儀芳",
+        "公務機": "69238"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳冠蓁",
+        "公務機": "69239"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊紫麟",
+        "公務機": "69240"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉淑菁",
+        "公務機": "69241"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘素菁",
+        "公務機": "69242"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡明璋",
+        "公務機": "69243"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "葉貞妙",
+        "公務機": "69244"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳英宜",
+        "公務機": "69245"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭素雲",
+        "公務機": "69246"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賴亞玲",
+        "公務機": "69247"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇千予",
+        "公務機": "69248"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "尹允宜",
+        "公務機": "69249"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林怡君",
+        "公務機": "69250"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林淑萍",
+        "公務機": "69251"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張琇惠",
+        "公務機": "69252"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭怡君",
+        "公務機": "69253"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "徐桂婷",
+        "公務機": "69254"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾秀玉",
+        "公務機": "69255"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊惠雲",
+        "公務機": "69256"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "宋子宣",
+        "公務機": "69257"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林孟華",
+        "公務機": "69258"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林景美",
+        "公務機": "69259"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱秀玲",
+        "公務機": "69260"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱淨銀",
+        "公務機": "69261"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鍾若麗",
+        "公務機": "69262"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鍾明枝",
+        "公務機": "69263"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅惠玲",
+        "公務機": "69264"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭淑敏",
+        "公務機": "69265"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李惠美",
+        "公務機": "69266"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "杜明忠",
+        "公務機": "69267"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鍾秀敏",
+        "公務機": "69268"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳昱丞",
+        "公務機": "69270"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇于綺",
+        "公務機": "69271"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蕭麗萍",
+        "公務機": "69272"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鹽埔門診",
+        "公務機": "69273"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "梁恩惠",
+        "公務機": "69274"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李鎮芳",
+        "公務機": "69275"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪妍玲",
+        "公務機": "69276"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳孟穎",
+        "公務機": "69277"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "居家護理值班",
+        "公務機": "69278"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳德珺",
+        "公務機": "69279"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳彥鳴",
+        "公務機": "69280"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔣美蘭",
+        "公務機": "69281"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "呼吸治療組-ICU",
+        "公務機": "69282"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賴慧慈",
+        "公務機": "69283"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱美枝",
+        "公務機": "69284"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳宜君",
+        "公務機": "69285"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳彩欣",
+        "公務機": "69286"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "赫湘雅",
+        "公務機": "69287"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "",
+        "公務機": "69288"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張庭容",
+        "公務機": "69289"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉柏屏",
+        "公務機": "69290"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張琳遂",
+        "公務機": "69291"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇秦明",
+        "公務機": "69292"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賈力耕",
+        "公務機": "69293"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳美如",
+        "公務機": "69294"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王暄喬",
+        "公務機": "69298"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃馨萱",
+        "公務機": "69299"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林孟",
+        "公務機": "69300"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳姵陵",
+        "公務機": "69301"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇宇珊",
+        "公務機": "69302"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "外出用",
+        "公務機": "69304"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林慧萍",
+        "公務機": "69306"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳姿瑩",
+        "公務機": "69307"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "病歷值班",
+        "公務機": "69308"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張年生",
+        "公務機": "69310"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林佳儒",
+        "公務機": "69312"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "龍春紹",
+        "公務機": "69314"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王建文",
+        "公務機": "69315"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘成婷",
+        "公務機": "69316"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "錢家陞",
+        "公務機": "69317"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "彭芹",
+        "公務機": "69318"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張超",
+        "公務機": "69319"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陶大屏",
+        "公務機": "69320"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "總院警衛2",
+        "公務機": "69321"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林妍伶",
+        "公務機": "69322"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳一旭",
+        "公務機": "69324"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "柳博祐",
+        "公務機": "69325"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "總院警衛1",
+        "公務機": "69326"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "瑞光警衛",
+        "公務機": "69327"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "長照警衛",
+        "公務機": "69328"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "救護車1",
+        "公務機": "69329"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "救護車2",
+        "公務機": "69330"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "公用",
+        "公務機": "69331"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班護理長",
+        "公務機": "69332"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "救護車3",
+        "公務機": "69333"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "尤顥宇",
+        "公務機": "69334"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘慈昣",
+        "公務機": "69335"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林美珍",
+        "公務機": "69336"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潮州專車",
+        "公務機": "69337"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "高樹專車",
+        "公務機": "69338"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "資訊室值班1",
+        "公務機": "69339"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "資訊室值班2",
+        "公務機": "69340"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班1",
+        "公務機": "69342"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班2",
+        "公務機": "69343"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "值班3",
+        "公務機": "69345"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林良哲",
+        "公務機": "69346"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林良哲",
+        "公務機": "69346"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "韓儒",
+        "公務機": "69347"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳秋蓉",
+        "公務機": "69348"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭惠鶯",
+        "公務機": "69350"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳安妮",
+        "公務機": "69351"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馬智鵬",
+        "公務機": "69352"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "何姿儀",
+        "公務機": "69353"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "莊竣程",
+        "公務機": "69354"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "公用",
+        "公務機": "69356"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳柏潤",
+        "公務機": "69357"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭美月",
+        "公務機": "69358"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李學明",
+        "公務機": "69360"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇光宇",
+        "公務機": "69361"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱京玲",
+        "公務機": "69362"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝慧美",
+        "公務機": "69363"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "柯文升",
+        "公務機": "69364"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曹鳳純",
+        "公務機": "69365"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊詠竹",
+        "公務機": "69366"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳勇璋",
+        "公務機": "69368"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馮鑑昌",
+        "公務機": "69369"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林妙香",
+        "公務機": "69376"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "血友病專線",
+        "公務機": "69376"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾芃廩",
+        "公務機": "69377"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "丁昱仁",
+        "公務機": "69378"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林青弘",
+        "公務機": "69379"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許芳瑜",
+        "公務機": "69382"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "戴美琴",
+        "公務機": "69385"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "郭立杰",
+        "公務機": "69386"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林億庭",
+        "公務機": "69386"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊貴英",
+        "公務機": "69388"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "創新服務中心單位公用",
+        "公務機": "69389"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王慧懿",
+        "公務機": "69390"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃國彥",
+        "公務機": "69391"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "温怡然",
+        "公務機": "69392"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱金菊",
+        "公務機": "69393"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林詩涵",
+        "公務機": "69397"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉憶雯",
+        "公務機": "69398"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林崴瑀",
+        "公務機": "69399"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡尹真",
+        "公務機": "69400"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許春蘭",
+        "公務機": "69401"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "孫志豪",
+        "公務機": "69402"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊芷意",
+        "公務機": "69405"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "",
+        "公務機": "69406"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳明昇",
+        "公務機": "69408"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊恩智",
+        "公務機": "69409"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李映昀",
+        "公務機": "69410"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "盧威達",
+        "公務機": "69411"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘文彬",
+        "公務機": "69412"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡佳芬",
+        "公務機": "69413"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "韓賢明",
+        "公務機": "69415"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅亮",
+        "公務機": "69415"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王慧君",
+        "公務機": "69416"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林少鈞",
+        "公務機": "69417"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳靜屏",
+        "公務機": "69418"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳清淵",
+        "公務機": "69419"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李美蓉",
+        "公務機": "69421"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李羽仁",
+        "公務機": "69422"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李秀貞",
+        "公務機": "69423"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周宗賢",
+        "公務機": "69424"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "丁子俽",
+        "公務機": "69425"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃哲南",
+        "公務機": "69426"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇峰毅",
+        "公務機": "69427"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "周湘陵",
+        "公務機": "69428"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李孟蓉",
+        "公務機": "69429"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "葉淑惠",
+        "公務機": "69430"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "葉銘嵩",
+        "公務機": "69433"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾柏源",
+        "公務機": "69434"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "李汶玲",
+        "公務機": "69436"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊皓年",
+        "公務機": "69438"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "保留",
+        "公務機": "69439"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘慕嵩",
+        "公務機": "69440"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "廖邦淳",
+        "公務機": "69443"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇勁宇",
+        "公務機": "69447"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "杜佳培",
+        "公務機": "69448"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "吳文智",
+        "公務機": "69449"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "謝忻樺",
+        "公務機": "69451"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪嫻榛",
+        "公務機": "69452"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張靜芳",
+        "公務機": "69453"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "趙台駿",
+        "公務機": "69454"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林家誠",
+        "公務機": "69455"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "顏汝娟",
+        "公務機": "69456"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳姉瑜",
+        "公務機": "69462"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡素梅",
+        "公務機": "69463"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "顏簡美珠",
+        "公務機": "69465"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蘇慶豐",
+        "公務機": "69466"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林子琳",
+        "公務機": "69467"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "曾士銓",
+        "公務機": "69469"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "盧思遠",
+        "公務機": "69471"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "簡言軒",
+        "公務機": "69472"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "莊芷萍",
+        "公務機": "69473"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "鄭巧旻",
+        "公務機": "69474"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王佳婕",
+        "公務機": "69477"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊宗霈",
+        "公務機": "69478"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "薛彩辰",
+        "公務機": "69479"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "許善馨",
+        "公務機": "69480"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "潘麗花",
+        "公務機": "69481"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊宛盈",
+        "公務機": "69482"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "譚義德",
+        "公務機": "69483"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡文琪",
+        "公務機": "69484"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林明龍",
+        "公務機": "69485"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃莉雯",
+        "公務機": "69488"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉謹誼",
+        "公務機": "69489"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "洪婉甄",
+        "公務機": "69490"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張詠梅",
+        "公務機": "69491"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "胡郁寧",
+        "公務機": "69492"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "馬美芳",
+        "公務機": "69494"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊順興",
+        "公務機": "69495"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張隆鐘",
+        "公務機": "69496"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳義雄",
+        "公務機": "69497"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林妙香",
+        "公務機": "69498"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "威務-瑞光分院/護理之家",
+        "公務機": "69500"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "劉宜靜",
+        "公務機": "69501"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "陳麗安",
+        "公務機": "69505"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "柯俊嘉",
+        "公務機": "69509"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "學童健檢",
+        "公務機": "69511"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "楊惠珊",
+        "公務機": "69512"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "梁子安",
+        "公務機": "69513"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡捷如",
+        "公務機": "69517"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "葉姿伶",
+        "公務機": "69518"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林筱芙",
+        "公務機": "69519"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "威務-門診病歷2樓",
+        "公務機": "69520"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "威務-門診病歷3樓",
+        "公務機": "69521"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "信實-急診.中午.小夜.大夜",
+        "公務機": "69524"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "信實-中午值(2).專案",
+        "公務機": "69525"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "信實-中午值(3).小夜(2)",
+        "公務機": "69526"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "信實-門診1樓.小夜(3)",
+        "公務機": "69527"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱俊宏",
+        "公務機": "69528"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "威務-夜間TC",
+        "公務機": "69529"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "信實-開刀房、心導管",
+        "公務機": "69530"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "信實-瑞光分院",
+        "公務機": "69531"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王笠軒",
+        "公務機": "69549"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "賴宗志",
+        "公務機": "69551"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "湯財華",
+        "公務機": "69552"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王雅慧",
+        "公務機": "69600"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "蔡元榮",
+        "公務機": "69606"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "健康櫥窗(自費中心)",
+        "公務機": "69666"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "黃銘弘",
+        "公務機": "69690"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "張冬瑀",
+        "公務機": "69733"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "林錫賢",
+        "公務機": "69777"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "余珮芬",
+        "公務機": "69800"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "王建銘",
+        "公務機": "69826"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱文智",
+        "公務機": "69827"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "邱國忠",
+        "公務機": "69845"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "羅惠珍",
+        "公務機": "69888"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "山巡門診",
+        "公務機": "69900"
+    },
+    {
+        "department": "",
+        "extension": "",
+        "name": "總機",
+        "公務機": "608888"
+    },
+    {
+        "department": "",
+        "extension": "1105",
+        "name": "蔡瑋玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1120",
+        "name": "陳郁婷",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1230",
+        "name": "康家琦",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1231",
+        "name": "蘇千予",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1232",
+        "name": "林妙香",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1232",
+        "name": "吳姿瑩",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1233",
+        "name": "林于婷",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1234",
+        "name": "郭文嘉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1324",
+        "name": "鄭伊伶",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1324",
+        "name": "鄭伊伶",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1324",
+        "name": "許淑媛",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1405",
+        "name": "羅婌萓",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1413",
+        "name": "陳詩怡",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1416",
+        "name": "王麗雅",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1417",
+        "name": "幸良蘭",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1422",
+        "name": "郭嘉玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1425",
+        "name": "鍾錦毅",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1428",
+        "name": "蘇琬雯",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1603",
+        "name": "吳侖瑾",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1615",
+        "name": "鍾若麗",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1632",
+        "name": "劉思源",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1633",
+        "name": "張隆鐘",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1650",
+        "name": "曾士香",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1651",
+        "name": "蔡珮容",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1652",
+        "name": "林伶紅",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1655",
+        "name": "沈泊香",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1656",
+        "name": "趙欣欣",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1658",
+        "name": "許慧莉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1661",
+        "name": "張超",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2006",
+        "name": "吳哲維",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2007",
+        "name": "周惠芳",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2007",
+        "name": "杜寒梅",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2008",
+        "name": "譚義德",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2008",
+        "name": "謝淑鈴",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2009",
+        "name": "周惠強",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2010",
+        "name": "李忠成",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2011",
+        "name": "周心寧",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2012",
+        "name": "李汶玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2012",
+        "name": "劉秀伶",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2015",
+        "name": "曹鳳純",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2018",
+        "name": "賈淙翔",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2019",
+        "name": "陳國仁",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2020",
+        "name": "曹宏益",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2021",
+        "name": "蕭如芹",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2022",
+        "name": "李志成",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2023",
+        "name": "唐朝生",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2024",
+        "name": "黃逸羣",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2025",
+        "name": "蔡哲民",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2025",
+        "name": "張余師冠",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2026",
+        "name": "林沼明",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2027",
+        "name": "林琨璿",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2028",
+        "name": "林憲璋",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2029",
+        "name": "吳清濱",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2030",
+        "name": "徐仲彥",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2051",
+        "name": "林良哲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2125",
+        "name": "陳芬英",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2126",
+        "name": "李昱瑩",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2229",
+        "name": "陳安妮",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2241",
+        "name": "許芳年",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2322",
+        "name": "朱孝紋",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2324",
+        "name": "林鴻文",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2325",
+        "name": "吳俊達",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2326",
+        "name": "黃彥証",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2327",
+        "name": "郭欣翰",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2328",
+        "name": "黃家焜",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2340",
+        "name": "郭志豪",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2414",
+        "name": "連富川",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2414",
+        "name": "羅咨涵",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2415",
+        "name": "薛彩辰",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2415",
+        "name": "謝忻樺",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2415",
+        "name": "劉軒宇",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2416",
+        "name": "鄭惠鶯",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2416",
+        "name": "張詠晴",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2417",
+        "name": "蘇于綺",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2417",
+        "name": "林雅雯",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2418",
+        "name": "葉秀芳",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2420",
+        "name": "林淑君",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2421",
+        "name": "圖書館公用",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2421",
+        "name": "林淑君",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2422",
+        "name": "主管辦公室",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2425",
+        "name": "陳秀如",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2426",
+        "name": "何春梅",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2427",
+        "name": "陳哩湘",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2428",
+        "name": "馬玉馨",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2752",
+        "name": "林詩涵",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2755",
+        "name": "高承志",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2757",
+        "name": "陳秋敏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2758",
+        "name": "薛湘蓉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2759",
+        "name": "黃冠筌",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2759",
+        "name": "李慧玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2760",
+        "name": "李佳穎",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3010",
+        "name": "吳佳蓉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3011",
+        "name": "徐顯宗",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3012",
+        "name": "潘慧姿",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3012",
+        "name": "曾靖恩",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3013",
+        "name": "鄭酪緯",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3015",
+        "name": "陳家華",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3110",
+        "name": "滕文豹",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3111",
+        "name": "施丞貴",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3113",
+        "name": "莊惠如",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3118",
+        "name": "江玫君",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "4101",
+        "name": "陶大屏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "4102",
+        "name": "王建文",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "4103",
+        "name": "李學明",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "4105",
+        "name": "林紘丞",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "4331",
+        "name": "李淑蓉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5010",
+        "name": "陳秋榮",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5025",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5026",
+        "name": "",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5115",
+        "name": "周俊雄",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5152",
+        "name": "姜怡芳(急診)",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5218",
+        "name": "梁芳慈",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5219",
+        "name": "黃守琪",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5238",
+        "name": "曹羽嫻",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5239",
+        "name": "備用",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5240",
+        "name": "張詠梅",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5419",
+        "name": "吳蘭香",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5442",
+        "name": "劉德森",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5633",
+        "name": "羅惠玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "69123",
+        "name": "陳靜茹",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1111~1113",
+        "name": "張玫惠",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1117/1110",
+        "name": "陳慧娟",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1635/1414",
+        "name": "黃雅芳",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1653(3939)",
+        "name": "張正鴻",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#111",
+        "name": "李淑媛",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#112",
+        "name": "吳明容",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#113",
+        "name": "陳詩敏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#115",
+        "name": "林佳儒",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#116",
+        "name": "徐榕君",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#117",
+        "name": "赫湘雅",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#118",
+        "name": "鍾乙萱",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#10或1730",
+        "name": "蔡哲民",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#11",
+        "name": "吳世宏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#12",
+        "name": "郭明麗",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#13",
+        "name": "朱芳珍",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#14",
+        "name": "吳政達",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#15",
+        "name": "方道筌",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#16",
+        "name": "吳曉菁",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#17",
+        "name": "曾璽叡",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#18",
+        "name": "潘文彬",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#19",
+        "name": "陳坤助",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#20",
+        "name": "林辰彥",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#22",
+        "name": "謝東宏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#23",
+        "name": "金瑞娥",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#24",
+        "name": "葉志恒",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#25",
+        "name": "曾秀敏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#26",
+        "name": "趙庭",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#27",
+        "name": "林郁芳",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#28",
+        "name": "曾育萱",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#29",
+        "name": "蕭以玟",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1731#30",
+        "name": "崔皓為",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉11",
+        "name": "楊欣潔",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉14",
+        "name": "楊淑玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉15",
+        "name": "李佩容",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉16",
+        "name": "張雅雯",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉17",
+        "name": "許善馨",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉18",
+        "name": "林雅萍",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉19",
+        "name": "廖翊馨",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉20",
+        "name": "游瓊如",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉21",
+        "name": "林佳蓉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉26",
+        "name": "林美珍",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2130轉27",
+        "name": "許鳯茹",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2131轉12",
+        "name": "許秀華",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2131轉13",
+        "name": "林孟頴",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2132轉25",
+        "name": "楊麗蘭",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#10",
+        "name": "謝時鵬",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#10",
+        "name": "何怡霓",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#11",
+        "name": "徐簡訊",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#12",
+        "name": "陳欣萍",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#13",
+        "name": "蔡蟬娟",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#14",
+        "name": "王進仁",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#15",
+        "name": "盧絜育",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#16",
+        "name": "黃惠敏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#17",
+        "name": "龔家瑩",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#18",
+        "name": "施佩吟",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#19",
+        "name": "李玟",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#21",
+        "name": "吳姝怡",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#22",
+        "name": "林暐欣",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#23",
+        "name": "簽收台",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#24",
+        "name": "非婦科處理區",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2600~04#25",
+        "name": "檢體處理區",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5011~13",
+        "name": "蕭任妏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5003",
+        "name": "吳讚美",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5003",
+        "name": "許芳瑜",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5740",
+        "name": "楊貴英",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5750",
+        "name": "劉淑梅",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5753",
+        "name": "施玉品",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5754",
+        "name": "張嘉鈴",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5755",
+        "name": "洪嘉雯",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5756",
+        "name": "楊承芳",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5757",
+        "name": "楊婕諭",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5758",
+        "name": "林洢丞",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5759",
+        "name": "林文芳",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5760",
+        "name": "陳秋萱",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5761",
+        "name": "戴雅佩",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5762",
+        "name": "施彥伶",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5763",
+        "name": "會議室",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5931",
+        "name": "黃麗婉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5932",
+        "name": "林庭卉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5933",
+        "name": "鄭琬馨",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5934",
+        "name": "莊千葳",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5935",
+        "name": "陳莉琪",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5936",
+        "name": "郭苔娟",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5937",
+        "name": "林恩琴",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5938",
+        "name": "醫師閱覽室",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5939",
+        "name": "許惠珍",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5940",
+        "name": "鍾興叡",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5944",
+        "name": "何啟元",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5957",
+        "name": "潘淑玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5958",
+        "name": "黃雅琪",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5960",
+        "name": "馬事佐",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5961",
+        "name": "李欣怡",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5990",
+        "name": "吳瑞敏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#20",
+        "name": "莊竣程",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#28",
+        "name": "賴聖允",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#29",
+        "name": "曾柏源",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#10",
+        "name": "劉羚櫻",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#15",
+        "name": "湯淑芬",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#15",
+        "name": "黃雅佩",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#16",
+        "name": "李筱薇",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#16",
+        "name": "謝亞璇",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#17",
+        "name": "陳錦雪",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#21",
+        "name": "潘俐雯",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#22",
+        "name": "郭懿萱",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#23",
+        "name": "黃秀玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#23",
+        "name": "黃貞文",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#24",
+        "name": "黃雅芳",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5720~25#24",
+        "name": "黃雅芳",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#21",
+        "name": "杜中庸",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#22",
+        "name": "徐桂婷",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#23",
+        "name": "陳麗安",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#24",
+        "name": "丁子俽",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#25",
+        "name": "蔡欣妤",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#26",
+        "name": "吳彥鳴",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5950~52#27",
+        "name": "林姿瑜",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5954或5950~52#11",
+        "name": "廚房",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "736-8366",
+        "name": "馮清風",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "736-8366",
+        "name": "吳俊甫",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "736-8366",
+        "name": "吳昌銘",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "736-8737",
+        "name": "劉雪玉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7937(護家)",
+        "name": "劉慧玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3988~3990轉10",
+        "name": "潘成婷",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3988~3990轉11",
+        "name": "黃國彥",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3988~3990轉12",
+        "name": "停佑恩",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3988~3990轉13",
+        "name": "楊詠竹",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3988~3990轉14",
+        "name": "張博宜",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3900",
+        "name": "邱芬娟",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3901",
+        "name": "包淑惠",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3902",
+        "name": "陳莉娜",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3903",
+        "name": "何瑞衡",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3904",
+        "name": "蔡亞璇",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3905",
+        "name": "蘇筱琪",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3906",
+        "name": "何敏慈",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3910",
+        "name": "趙一珍",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3911",
+        "name": "陳洛珍",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3912",
+        "name": "林玟萱",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3913",
+        "name": "王珮靜",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3915",
+        "name": "陳彥婷",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3918",
+        "name": "丁麗惠",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3919",
+        "name": "王文君",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3920",
+        "name": "陳美莉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3921",
+        "name": "郭冠廷",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3922",
+        "name": "蔡孟君",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3931",
+        "name": "盧靜慧",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3932",
+        "name": "杜瓊玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3934",
+        "name": "洪德昌",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3935",
+        "name": "劉筑婷",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3937",
+        "name": "李慧玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3938",
+        "name": "吳侖瑾",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3940",
+        "name": "吳瑞敏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3941",
+        "name": "鍾若麗",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3943",
+        "name": "余玉竹",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3944",
+        "name": "瑞光行政五樓會議室",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3945",
+        "name": "馬玉馨",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3947",
+        "name": "蘇姿安",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3948",
+        "name": "吳宗樹",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3950",
+        "name": "陶阿倫",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3952",
+        "name": "許煌澤",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3960",
+        "name": "馬事佐",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3961",
+        "name": "黃淑英",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3964",
+        "name": "楊宜樺",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3966",
+        "name": "曾芊慈",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3967",
+        "name": "葉怡萍",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3968",
+        "name": "張純菁",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3969",
+        "name": "吳慧鈺",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3970",
+        "name": "廖淑芬",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3971",
+        "name": "鄭瀅汝",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3973",
+        "name": "李佩勳",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3975",
+        "name": "杜傳榮",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3977",
+        "name": "范佳瑜",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3978",
+        "name": "林偉婷",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3980",
+        "name": "鍾妤雯",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3981",
+        "name": "曾和惠",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3982",
+        "name": "玉楨",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3986",
+        "name": "馮鑑昌",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7301",
+        "name": "薛玉皓",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7937",
+        "name": "劉慧玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7931~34#11、7937",
+        "name": "劉慧玲督導",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7931~34#18",
+        "name": "潘慈昣",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7931~34#22",
+        "name": "黃靜梅",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7931~34#25",
+        "name": "林淑娟",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7951~52#12",
+        "name": "廖淑英",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7951~52#13",
+        "name": "孫宗慧",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7951~52#15",
+        "name": "陳瑩純",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7951~52#17",
+        "name": "邱愛美",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7951~52#18",
+        "name": "許純華",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#111",
+        "name": "李淑媛",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#112",
+        "name": "吳明容",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#113",
+        "name": "陳詩敏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#115",
+        "name": "林佳儒",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#116",
+        "name": "徐榕君",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#117",
+        "name": "赫湘雅",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701~02#118",
+        "name": "鍾乙萱",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉101",
+        "name": "阮盛豪",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉101",
+        "name": "公用桌",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉102",
+        "name": "詹益群",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉102",
+        "name": "郭志榮",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉102",
+        "name": "郝繼隆",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉103",
+        "name": "吳忠鴻",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉104",
+        "name": "羅雨平",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉105",
+        "name": "高肇隆",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉106",
+        "name": "陳昶宏",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉107",
+        "name": "張光世",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉108",
+        "name": "內科公用桌",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉109",
+        "name": "內科公用桌",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉121",
+        "name": "李心白",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉123",
+        "name": "賴祺瑞",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉123",
+        "name": "洪慶憲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉125",
+        "name": "潘慕嵩",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉126",
+        "name": "外科公用桌",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉127",
+        "name": "林松俊",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉127",
+        "name": "趙廷正",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉131",
+        "name": "陳亮仁",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉131",
+        "name": "柯文升",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉132",
+        "name": "張玉立",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉132",
+        "name": "黃勇誠",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉132",
+        "name": "謝偉倫",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉134",
+        "name": "秦有育",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉135",
+        "name": "陳一旭",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉151",
+        "name": "公用電腦-1",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉152",
+        "name": "公用電腦-2",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉153",
+        "name": "劉思源副院長",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉155",
+        "name": "交誼廳",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉156",
+        "name": "會議室",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1701轉159",
+        "name": "張琳遂",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "1622",
+        "name": "蘇祐瑩",
+        "公務機": ""
+    },
+    {
+        "department": "感控室",
+        "extension": "2011",
+        "name": "周心寧",
+        "公務機": ""
+    },
+    {
+        "department": "感控室",
+        "extension": "2012",
+        "name": "劉秀伶",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2012",
+        "name": "李汶玲",
+        "公務機": ""
+    },
+    {
+        "department": "安寧共同護理師",
+        "extension": "2033",
+        "name": "李詩玉",
+        "公務機": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "2035",
+        "name": "郭純彣",
+        "公務機": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "2038",
+        "name": "陳瑩純",
+        "公務機": ""
+    },
+    {
+        "department": "出院準備服務",
+        "extension": "2039",
+        "name": "張瓊文",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "2311",
+        "name": "吳玉霞",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3234",
+        "name": "蘇玫帆",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3313",
+        "name": "蔡佳紜",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3313",
+        "name": "蔡佳紜",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3412",
+        "name": "林靜宜",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3534",
+        "name": "林妙枝",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "3634",
+        "name": "黃莉雯",
+        "公務機": ""
+    },
+    {
+        "department": "洗腎室2HDR2",
+        "extension": "4110",
+        "name": "林妮妮",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "4112",
+        "name": "林妮妮",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "4223",
+        "name": "陳金菊",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "4315",
+        "name": "邱怡凡",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "4422",
+        "name": "陳柏怡",
+        "公務機": ""
+    },
+    {
+        "department": "放射科",
+        "extension": "4521",
+        "name": "陳伊君",
+        "公務機": ""
+    },
+    {
+        "department": "放射科",
+        "extension": "4521",
+        "name": "廖秋英",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "4522",
+        "name": "陳冠蓁",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5019",
+        "name": "陳美錚",
+        "公務機": ""
+    },
+    {
+        "department": "供應室CSR",
+        "extension": "5227",
+        "name": "楊梅絹",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5227",
+        "name": "楊梅絹",
+        "公務機": ""
+    },
+    {
+        "department": "恢復室",
+        "extension": "5315",
+        "name": "邱意雅",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5423",
+        "name": "徐淑玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5423",
+        "name": "徐淑玲",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5432",
+        "name": "林靜宜",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5533",
+        "name": "陳雅卿",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5632",
+        "name": "陳榆蓉",
+        "公務機": ""
+    },
+    {
+        "department": "腫瘤3D",
+        "extension": "5730",
+        "name": "謝綿",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5745",
+        "name": "謝綿",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "7301",
+        "name": "薛玉皓",
+        "公務機": ""
+    },
+    {
+        "department": "洗腎室1HDR1",
+        "extension": "1621~1623",
+        "name": "蘇祐瑩",
+        "公務機": ""
+    },
+    {
+        "department": "門診OPD",
+        "extension": "2337、2338",
+        "name": "吳玉霞",
+        "公務機": ""
+    },
+    {
+        "department": "內科2C",
+        "extension": "3230〜3231",
+        "name": "蘇玫帆",
+        "公務機": ""
+    },
+    {
+        "department": "外科成人加護SICU(含營養小組)",
+        "extension": "3317~3321",
+        "name": "蔡佳紜",
+        "公務機": ""
+    },
+    {
+        "department": "呼吸照護中心RCC",
+        "extension": "3320~3321",
+        "name": "蔡佳紜",
+        "公務機": ""
+    },
+    {
+        "department": "小兒加護N/PICU",
+        "extension": "3410〜3412",
+        "name": "林靜宜",
+        "公務機": ""
+    },
+    {
+        "department": "內科5C",
+        "extension": "3530〜3531",
+        "name": "林妙枝",
+        "公務機": ""
+    },
+    {
+        "department": "心臟血管暨神經內科6C",
+        "extension": "3630~3634",
+        "name": "黃莉雯",
+        "公務機": ""
+    },
+    {
+        "department": "小兒科2B",
+        "extension": "4220〜4222",
+        "name": "陳金菊",
+        "公務機": ""
+    },
+    {
+        "department": "內科成人加護MICU",
+        "extension": "4311〜4313",
+        "name": "邱怡凡",
+        "公務機": ""
+    },
+    {
+        "department": "婦產科4B",
+        "extension": "4420〜4421",
+        "name": "陳柏怡",
+        "公務機": ""
+    },
+    {
+        "department": "骨科5B",
+        "extension": "4520〜4521",
+        "name": "陳冠蓁",
+        "公務機": ""
+    },
+    {
+        "department": "急診ER",
+        "extension": "5110〜5124",
+        "name": "陳美錚",
+        "公務機": ""
+    },
+    {
+        "department": "開刀房OR",
+        "extension": "5311~5317",
+        "name": "楊梅絹",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5317*28",
+        "name": "楊梅絹",
+        "公務機": ""
+    },
+    {
+        "department": "嬰兒室BR",
+        "extension": "5410〜5411",
+        "name": "徐淑玲",
+        "公務機": ""
+    },
+    {
+        "department": "產房4A",
+        "extension": "5420〜5422",
+        "name": "徐淑玲",
+        "公務機": ""
+    },
+    {
+        "department": "病嬰室SBR",
+        "extension": "5430〜5431",
+        "name": "林靜宜",
+        "公務機": ""
+    },
+    {
+        "department": "外科5A",
+        "extension": "5530〜5531",
+        "name": "陳雅卿",
+        "公務機": ""
+    },
+    {
+        "department": "內科6A",
+        "extension": "5630〜5634",
+        "name": "陳榆蓉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉11",
+        "name": "護理部櫃台前",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉12",
+        "name": "護理部發想室",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉13",
+        "name": "王靖茹",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉14",
+        "name": "賴威廷",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉15",
+        "name": "李春綢",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉16",
+        "name": "江慈馨",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉17",
+        "name": "護理部第二會議室",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉21",
+        "name": "曾瑞慧",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉22",
+        "name": "莊詩蘋",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉23",
+        "name": "陳素華",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉24",
+        "name": "蕭麗萍",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉30",
+        "name": "朱淑媛",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉31",
+        "name": "剪輯室",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉33",
+        "name": "陳思嘉",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉34",
+        "name": "護理部4F後",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "5980轉35",
+        "name": "護理部4F前",
+        "公務機": ""
+    },
+    {
+        "department": "",
+        "extension": "81#712",
+        "name": "曾芃廩",
+        "公務機": ""
+    },
+    {
+        "department": "呼吸照護病房RCW",
+        "extension": "81~331、431",
+        "name": "曾芃廩",
+        "公務機": ""
+    },
+    {
+        "department": "安寧AN",
+        "extension": "81~531",
+        "name": "曾芃廩",
+        "公務機": ""
+    }
+]
