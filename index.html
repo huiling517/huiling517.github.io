@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>電話查詢系統</title>
     <style>
-        /* 確保背景填滿整個視窗 */
+        /* ========== CSS 樣式區 (維持原樣) ========== */
         html, body {
             height: 100%;
             margin: 0;
@@ -21,6 +21,7 @@
             background-repeat: no-repeat;
             background-position: center;
             background-attachment: fixed;
+            background-color: #f0f0f0;
         }
 
         /* 手機版背景樣式 */
@@ -53,6 +54,9 @@
             display: flex;
             flex-direction: row;
             margin-bottom: 10px;
+            align-items: center; /* 確保垂直置中對齊 */
+            width: 100%; /* 確保容器寬度正確 */
+            box-sizing: border-box; /* 確保內距計算正確 */
         }
 
         #searchInput {
@@ -62,6 +66,13 @@
             border: 1px solid #ccc; /* 灰色邊框 */
             border-radius: 2px;
             box-sizing: border-box;
+            min-width: 0; /* 關鍵修改：允許輸入框在空間不足時縮小，解決爆版問題 */
+        }
+        
+        /* 針對 placeholder (提示文字) 設定較小的字體與顏色 */
+        #searchInput::placeholder {
+            font-size: 14px; /* 修改：改為 14px，比原本更小一點 */
+            color: #999;
         }
 
         #searchButton {
@@ -73,6 +84,8 @@
             border-radius: 4px;
             cursor: pointer;
             margin-left: 5px;
+            white-space: nowrap; /* 強制文字不換行 */
+            flex-shrink: 0; /* 確保按鈕不會被壓縮 */
         }
 
         #searchButton:hover {
@@ -87,7 +100,7 @@
         }
 
         .system-remark {
-            font-size: 16px;
+            font-size: 14px; /* 修改：字體改小一點 (原16px) */
             color: #888;
             text-align: left; /* 改為靠左對齊 */
             margin-top: 15px;
@@ -113,7 +126,7 @@
         #resultsTable th {
             background-color: #f2f2f2;
             color: #333;
-            white-space: nowrap; /* 加入這一行：強制文字不換行 */
+            white-space: nowrap; /* 強制文字不換行 */
         }
 
         #resultsTable tr:nth-child(even) {
@@ -163,7 +176,7 @@
             }
 
             .input-note, .system-remark {
-                font-size: 14px;
+                font-size: 12px; /* 修改：手機版也對應改小 (原14px) */
             }
 
             #resultsTable th, #resultsTable td {
@@ -185,12 +198,17 @@
     </div>
 
     <script>
+        // 設定 Google Apps Script 部署網址
+        const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzgmcGPvDcqFF1XyvAmu2wdhkGF-ie3DVyVkItMpm8KqvP0PjXbHw9QJ8-eL3Wvs7po/exec';
+
         const searchInput = document.getElementById('searchInput');
         const searchButton = document.getElementById('searchButton');
         const resultsContainerDiv = document.getElementById('resultsContainer');
 
-        // 載入資料
+        // 載入資料變數
         let data = [];
+
+        // 1. 載入本地 JSON 資料
         async function loadData() {
             try {
                 const response = await fetch('data.json'); // 載入靜態 JSON 檔案
@@ -198,13 +216,62 @@
                     throw new Error('無法載入資料');
                 }
                 data = await response.json();
+                console.log('資料載入成功');
             } catch (error) {
                 console.error('載入資料時發生錯誤:', error);
-                resultsContainerDiv.innerHTML = `<p class="error">載入資料失敗: ${error.message}</p>`;
+                // 如果沒有 data.json，這裡提供一點測試資料以免功能全掛
+                data = []; 
+                resultsContainerDiv.innerHTML = `<p class="error">載入資料庫失敗，請確認 data.json 存在。</p>`;
             }
         }
 
-        // 查詢資料
+        // 2. 獲取用戶 IP
+        async function getUserIP() {
+            try {
+                const response = await fetch('https://api.ipify.org?format=json');
+                const json = await response.json();
+                return json.ip;
+            } catch (error) {
+                console.warn('IP fetch failed:', error); // 增加錯誤紀錄方便除錯
+                return 'unknown';
+            }
+        }
+
+        // 3. 記錄到 Google Sheet (解決跨域問題)
+        async function logToGoogleSheet(keyword) {
+            try {
+                const ip = await getUserIP();
+                
+                // 判斷裝置類型
+                const userAgent = navigator.userAgent;
+                const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
+                const deviceType = isMobile ? '手機' : '電腦';
+
+                const logData = {
+                    keyword: keyword,
+                    source: 'web',
+                    userIP: ip,
+                    deviceType: deviceType, // 新增：裝置類型 (手機/電腦)
+                    userAgent: userAgent
+                };
+
+                // 使用 no-cors 模式發送
+                await fetch(GOOGLE_SCRIPT_URL, {
+                    method: 'POST',
+                    mode: 'no-cors', // 關鍵：不檢查跨域
+                    keepalive: true, // 關鍵：確保頁面跳轉或關閉前請求能完成
+                    headers: {
+                        'Content-Type': 'text/plain' // 關鍵：使用純文字避免預檢
+                    },
+                    body: JSON.stringify(logData)
+                });
+                console.log('Log sent to Google Sheet: ' + deviceType + ', IP: ' + ip);
+            } catch (e) {
+                console.error('Log failed', e);
+            }
+        }
+
+        // 4. 查詢資料主功能
         function performSearch() {
             const query = searchInput.value.trim().toLowerCase();
             resultsContainerDiv.innerHTML = '<p class="loading">查詢中...</p>'; // 顯示載入中提示
@@ -213,6 +280,10 @@
                 resultsContainerDiv.innerHTML = '<p class="no-results">請輸入查詢關鍵字。</p>';
                 return;
             }
+
+            // --- 加入記錄功能 (背景執行，不卡介面) ---
+            logToGoogleSheet(searchInput.value.trim());
+            // -------------------------------------
 
             const filteredResults = data.filter(person =>
                 (person.name && person.name.toLowerCase().includes(query)) ||
@@ -229,6 +300,7 @@
 
                 const thead = table.createTHead();
                 const headerRow = thead.insertRow();
+                // 依照您原本的表格欄位
                 const headers = ['姓名', '單位', '手機簡碼', '分機'];
                 headers.forEach(headerText => {
                     const th = document.createElement('th');
