@@ -4946,12 +4946,6 @@
     {
         "department": "",
         "extension": "",
-        "name": "林良哲",
-        "mobile_short_code": "69346"
-    },
-    {
-        "department": "",
-        "extension": "",
         "name": "韓儒",
         "mobile_short_code": "69347"
     },
@@ -8298,5 +8292,6 @@
        "mobile_short_code": ""         
      }
     ]
+
 
 
